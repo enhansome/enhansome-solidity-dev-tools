@@ -1,0 +1,474 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Truffle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-04-22T08:47:19Z",
+            "owner": "ConsenSys-archive",
+            "repo": "truffle",
+            "stars": 13918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T11:50:24Z",
+            "owner": "foundry-rs",
+            "repo": "foundry",
+            "stars": 10558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hardhat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:17:00Z",
+            "owner": "NomicFoundation",
+            "repo": "hardhat",
+            "stars": 8501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brownie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T06:41:17Z",
+            "owner": "eth-brownie",
+            "repo": "brownie",
+            "stars": 2723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dapptools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-02-25T19:28:22Z",
+            "owner": "dapphub",
+            "repo": "dapptools",
+            "stars": 2122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ape",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T13:08:03Z",
+            "owner": "ApeWorX",
+            "repo": "ape",
+            "stars": 1054
+          }
+        }
+      ],
+      "title": "ToolKits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slither",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:56:04Z",
+            "owner": "crytic",
+            "repo": "slither",
+            "stars": 6341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manticore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-24T16:28:22Z",
+            "owner": "trailofbits",
+            "repo": "manticore",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halmos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-06T19:05:39Z",
+            "owner": "a16z",
+            "repo": "halmos",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyrometer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-14T15:41:16Z",
+            "owner": "nascentxyz",
+            "repo": "pyrometer",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solstat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-17T15:10:36Z",
+            "owner": "0xKitsune",
+            "repo": "solstat",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slitherin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-25T10:20:17Z",
+            "owner": "pessimistic-io",
+            "repo": "slitherin",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C4dit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-02-02T21:55:03Z",
+            "owner": "byterocket",
+            "repo": "c4udit",
+            "stars": 237
+          }
+        }
+      ],
+      "title": "Static Analysis & Symbolic Execution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Echidna",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T22:59:04Z",
+            "owner": "crytic",
+            "repo": "echidna",
+            "stars": 3166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ityfuzz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-10T00:09:48Z",
+            "owner": "fuzzland",
+            "repo": "ityfuzz",
+            "stars": 1110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medusa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T09:00:49Z",
+            "owner": "crytic",
+            "repo": "medusa",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FuzzyDefi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-11-07T22:24:23Z",
+            "owner": "0xNazgul",
+            "repo": "fuzzydefi",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "Fuzzing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Juan Blanco",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-28T05:22:32Z",
+            "owner": "juanfranblanco",
+            "repo": "vscode-solidity",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nomic Foundation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T10:15:14Z",
+            "owner": "NomicFoundation",
+            "repo": "hardhat-vscode",
+            "stars": 211
+          }
+        }
+      ],
+      "title": "LSPs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solhint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:16:59Z",
+            "owner": "protofire",
+            "repo": "solhint",
+            "stars": 1126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scopelint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T02:54:11Z",
+            "owner": "ScopeLift",
+            "repo": "scopelint",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Linting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Heimdall",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T20:35:15Z",
+            "owner": "Jon-Becker",
+            "repo": "heimdall-rs",
+            "stars": 1598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-21T14:03:45Z",
+            "owner": "quilt",
+            "repo": "etk",
+            "stars": 356
+          }
+        }
+      ],
+      "title": "Decompilers and Disassemblers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solidity 2 UML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T06:34:50Z",
+            "owner": "naddison36",
+            "repo": "sol2uml",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arbiter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-01T20:36:39Z",
+            "owner": "harnesslabs",
+            "repo": "arbiter",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Etheno",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-02-14T15:58:57Z",
+            "owner": "crytic",
+            "repo": "etheno",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulcan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-04-23T12:17:53Z",
+            "owner": "nomoixyz",
+            "repo": "vulcan",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sothis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-31T12:03:32Z",
+            "owner": "rainshowerLabs",
+            "repo": "sothis",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solgrep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-08T10:53:54Z",
+            "owner": "tintinweb",
+            "repo": "solgrep",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diffusc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Solidity",
+            "last_commit": "2024-03-25T09:17:58Z",
+            "owner": "crytic",
+            "repo": "diffusc",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:03:07.427Z",
+    "original_repository": "0xcacti/awesome-solidity-dev-tools",
+    "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
+    "enhanced_repository": "enhansome/enhansome-solidity-dev-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome solidity dev tools with stars"
+  }
+}
