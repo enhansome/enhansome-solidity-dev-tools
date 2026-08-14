@@ -14,7 +14,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13918
+            "stars": 13917
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T11:50:24Z",
+            "last_commit": "2026-08-14T11:56:07Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10558
+            "stars": 10560
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T10:17:00Z",
+            "last_commit": "2026-08-14T08:27:35Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8501
+            "stars": 8503
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6341
+            "stars": 6342
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2024-06-25T10:20:17Z",
             "owner": "pessimistic-io",
             "repo": "slitherin",
-            "stars": 376
+            "stars": 377
           }
         },
         {
@@ -205,10 +205,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T22:59:04Z",
+            "last_commit": "2026-08-14T00:06:57Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3166
+            "stars": 3167
           }
         },
         {
@@ -301,7 +301,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T23:16:59Z",
+            "last_commit": "2026-08-13T13:28:54Z",
             "owner": "protofire",
             "repo": "solhint",
             "stars": 1126
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-11T20:35:15Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1598
+            "stars": 1599
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2026-07-01T20:36:39Z",
             "owner": "harnesslabs",
             "repo": "arbiter",
-            "stars": 747
+            "stars": 748
           }
         },
         {
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:03:07.427Z",
+    "last_updated": "2026-08-14T12:01:08.113Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
     "enhanced_repository": "enhansome/enhansome-solidity-dev-tools",
