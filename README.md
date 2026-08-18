@@ -10,27 +10,27 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,567 | 🐛 320 | 🌐 Rust | 📅 2026-08-17*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,570 | 🐛 320 | 🌐 Rust | 📅 2026-08-18*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,501 | 🐛 614 | 🌐 TypeScript | 📅 2026-08-17*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,502 | 🐛 616 | 🌐 TypeScript | 📅 2026-08-18*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 397 | 🌐 C | 📅 2026-08-05*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 192 | 🌐 Python | 📅 2026-07-13*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 193 | 🌐 Python | 📅 2026-07-13*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,346 | 🐛 470 | 🌐 Python | 📅 2026-08-12*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,346 | 🐛 472 | 🌐 Python | 📅 2026-08-12*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
 * *[Halmos](https://github.com/a16z/halmos) ⭐ 1,028 | 🐛 73 | 🌐 Python | 📅 2025-08-06*
 
-* *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 799 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
+* *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 798 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
 * *[Solstat](https://github.com/0xKitsune/solstat) ⭐ 428 | 🐛 32 | 🌐 Rust | 📅 2023-11-17*
 
@@ -54,11 +54,11 @@
 
 * *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 100 | 🌐 TypeScript | 📅 2026-05-20*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 100 | 🌐 TypeScript | 📅 2026-08-18*
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,126 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-13*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,125 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-13*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 7 | 🌐 Rust | 📅 2026-08-13*
 
@@ -74,7 +74,7 @@
 
 ## Misc
 
-* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,314 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-06*
+* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,315 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-06*
 
 * *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 748 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

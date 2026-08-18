@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T11:14:58Z",
+            "last_commit": "2026-08-18T11:37:55Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10567
+            "stars": 10570
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:39:27Z",
+            "last_commit": "2026-08-18T11:15:38Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8501
+            "stars": 8502
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2025-02-14T15:41:16Z",
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 799
+            "stars": 798
           }
         },
         {
@@ -281,7 +281,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T10:15:14Z",
+            "last_commit": "2026-08-18T11:44:54Z",
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
             "stars": 211
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-13T13:28:54Z",
             "owner": "protofire",
             "repo": "solhint",
-            "stars": 1126
+            "stars": 1125
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1314
+            "stars": 1315
           }
         },
         {
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:44:53.637Z",
+    "last_updated": "2026-08-18T11:45:17.822Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
     "enhanced_repository": "enhansome/enhansome-solidity-dev-tools",
