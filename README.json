@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38267641,
             "language": "TypeScript",
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-18T11:37:55Z",
+            "last_commit": "2026-08-19T11:32:41Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10570
+            "stars": 10568
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:15:38Z",
+            "last_commit": "2026-08-19T11:08:53Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8502
+            "stars": 8503
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155913585,
             "language": "C",
             "last_commit": "2026-08-05T06:41:17Z",
             "owner": "eth-brownie",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137069125,
             "language": "Haskell",
             "last_commit": "2025-02-25T19:28:22Z",
             "owner": "dapphub",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326840499,
             "language": "Python",
             "last_commit": "2026-07-13T13:08:03Z",
             "owner": "ApeWorX",
@@ -91,7 +97,7 @@
       "title": "ToolKits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147583941,
             "language": "Python",
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6346
+            "stars": 6345
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81612762,
             "language": "Python",
             "last_commit": "2026-06-24T16:28:22Z",
             "owner": "trailofbits",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577492459,
             "language": "Python",
             "last_commit": "2025-08-06T19:05:39Z",
             "owner": "a16z",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586608936,
             "language": "Rust",
             "last_commit": "2025-02-14T15:41:16Z",
             "owner": "nascentxyz",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553185360,
             "language": "Rust",
             "last_commit": "2023-11-17T15:10:36Z",
             "owner": "0xKitsune",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536081843,
             "language": "Python",
             "last_commit": "2024-06-25T10:20:17Z",
             "owner": "pessimistic-io",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 451480801,
             "language": "Go",
             "last_commit": "2022-02-02T21:55:03Z",
             "owner": "byterocket",
@@ -195,7 +208,7 @@
       "title": "Static Analysis & Symbolic Execution"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -204,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101585932,
             "language": "Haskell",
             "last_commit": "2026-08-14T23:14:32Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3167
+            "stars": 3169
           }
         },
         {
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 557020771,
             "language": "Rust",
             "last_commit": "2025-12-10T00:09:48Z",
             "owner": "fuzzland",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401814297,
             "language": "Go",
             "last_commit": "2026-07-06T09:00:49Z",
             "owner": "crytic",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 651697676,
             "language": "Solidity",
             "last_commit": "2023-11-07T22:24:23Z",
             "owner": "0xNazgul",
@@ -257,7 +274,7 @@
       "title": "Fuzzing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46474204,
             "language": "TypeScript",
             "last_commit": "2026-05-28T05:22:32Z",
             "owner": "juanfranblanco",
@@ -280,8 +298,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353710215,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:44:54Z",
+            "last_commit": "2026-08-19T11:30:43Z",
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
             "stars": 211
@@ -291,7 +310,7 @@
       "title": "LSPs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107120334,
             "language": "JavaScript",
             "last_commit": "2026-08-13T13:28:54Z",
             "owner": "protofire",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 546778710,
             "language": "Rust",
             "last_commit": "2026-08-13T02:54:11Z",
             "owner": "ScopeLift",
@@ -325,7 +346,7 @@
       "title": "Linting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -334,11 +355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499880203,
             "language": "Rust",
             "last_commit": "2026-08-16T00:09:09Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1599
+            "stars": 1600
           }
         },
         {
@@ -348,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337157801,
             "language": "Rust",
             "last_commit": "2024-06-21T14:03:45Z",
             "owner": "quilt",
@@ -359,7 +382,7 @@
       "title": "Decompilers and Disassemblers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -368,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168141555,
             "language": "TypeScript",
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
@@ -382,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567327580,
             "language": "Rust",
             "last_commit": "2026-07-01T20:36:39Z",
             "owner": "harnesslabs",
@@ -396,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 138937540,
             "language": "Python",
             "last_commit": "2025-02-14T15:58:57Z",
             "owner": "crytic",
@@ -410,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573133593,
             "language": "Solidity",
             "last_commit": "2025-04-23T12:17:53Z",
             "owner": "nomoixyz",
@@ -424,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643605922,
             "language": "Rust",
             "last_commit": "2025-01-31T12:03:32Z",
             "owner": "rainshowerLabs",
@@ -438,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429887734,
             "language": "JavaScript",
             "last_commit": "2024-08-08T10:53:54Z",
             "owner": "tintinweb",
@@ -452,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 662653707,
             "language": "Solidity",
             "last_commit": "2024-03-25T09:17:58Z",
             "owner": "crytic",
@@ -464,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:45:17.822Z",
+    "last_updated": "2026-08-19T11:44:46.743Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
     "enhanced_repository": "enhansome/enhansome-solidity-dev-tools",
