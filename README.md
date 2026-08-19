@@ -12,7 +12,7 @@
 
 * *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,568 | 🐛 294 | 🌐 Rust | 📅 2026-08-19*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,503 | 🐛 617 | 🌐 TypeScript | 📅 2026-08-19*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 615 | 🌐 TypeScript | 📅 2026-08-19*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 397 | 🌐 C | 📅 2026-08-05*
 
@@ -54,7 +54,7 @@
 
 * *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-19*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 97 | 🌐 TypeScript | 📅 2026-08-19*
 
 ## Linting
 

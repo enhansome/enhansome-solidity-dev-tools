@@ -27,7 +27,7 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:32:41Z",
+            "last_commit": "2026-08-19T12:45:15Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10568
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:08:53Z",
+            "last_commit": "2026-08-19T12:38:33Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8503
+            "stars": 8504
           }
         },
         {
@@ -300,7 +300,7 @@
             "archived": false,
             "id": 353710215,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:30:43Z",
+            "last_commit": "2026-08-19T12:05:26Z",
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
             "stars": 211
@@ -494,8 +494,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:44:46.743Z",
+    "last_updated": "2026-08-19T12:54:49.402Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
+    "original_repository_id": 646066390,
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
     "enhanced_repository": "enhansome/enhansome-solidity-dev-tools",
     "enhanced_repository_description": null,
