@@ -27,7 +27,7 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:45:15Z",
+            "last_commit": "2026-08-20T11:20:35Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10568
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:38:33Z",
+            "last_commit": "2026-08-20T11:42:00Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8504
+            "stars": 8505
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 147583941,
             "language": "Python",
-            "last_commit": "2026-08-12T22:56:04Z",
+            "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6345
+            "stars": 6346
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2025-08-06T19:05:39Z",
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1028
+            "stars": 1029
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 401814297,
             "language": "Go",
-            "last_commit": "2026-07-06T09:00:49Z",
+            "last_commit": "2026-08-19T20:51:02Z",
             "owner": "crytic",
             "repo": "medusa",
             "stars": 484
@@ -411,7 +411,7 @@
             "last_commit": "2026-07-01T20:36:39Z",
             "owner": "harnesslabs",
             "repo": "arbiter",
-            "stars": 748
+            "stars": 747
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:54:49.402Z",
+    "last_updated": "2026-08-20T11:47:09.918Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_id": 646066390,
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
