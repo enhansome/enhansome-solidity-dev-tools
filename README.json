@@ -15,7 +15,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13915
+            "stars": 13917
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-20T11:20:35Z",
+            "last_commit": "2026-08-21T11:27:27Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10568
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T11:42:00Z",
+            "last_commit": "2026-08-21T09:23:01Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
             "stars": 8505
@@ -75,7 +75,7 @@
             "last_commit": "2025-02-25T19:28:22Z",
             "owner": "dapphub",
             "repo": "dapptools",
-            "stars": 2122
+            "stars": 2121
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6346
+            "stars": 6345
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2025-08-06T19:05:39Z",
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1029
+            "stars": 1028
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2025-02-14T15:41:16Z",
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 798
+            "stars": 797
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-11-17T15:10:36Z",
             "owner": "0xKitsune",
             "repo": "solstat",
-            "stars": 428
+            "stars": 427
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-06-25T10:20:17Z",
             "owner": "pessimistic-io",
             "repo": "slitherin",
-            "stars": 377
+            "stars": 376
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-19T20:51:02Z",
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 484
+            "stars": 483
           }
         },
         {
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 353710215,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:05:26Z",
+            "last_commit": "2026-08-20T19:35:40Z",
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
-            "stars": 211
+            "stars": 210
           }
         }
       ],
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-16T00:09:09Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1600
+            "stars": 1599
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1315
+            "stars": 1314
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2025-04-23T12:17:53Z",
             "owner": "nomoixyz",
             "repo": "vulcan",
-            "stars": 287
+            "stars": 286
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2025-01-31T12:03:32Z",
             "owner": "rainshowerLabs",
             "repo": "sothis",
-            "stars": 220
+            "stars": 219
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:47:09.918Z",
+    "last_updated": "2026-08-21T11:46:59.647Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_id": 646066390,
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
