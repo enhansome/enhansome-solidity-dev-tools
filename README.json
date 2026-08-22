@@ -15,7 +15,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13917
+            "stars": 13916
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-21T11:27:27Z",
+            "last_commit": "2026-08-22T08:04:53Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10568
+            "stars": 10565
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:23:01Z",
+            "last_commit": "2026-08-22T07:25:28Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
             "stars": 8505
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 326840499,
             "language": "Python",
-            "last_commit": "2026-07-13T13:08:03Z",
+            "last_commit": "2026-08-21T22:20:25Z",
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1053
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6345
+            "stars": 6349
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-06-25T10:20:17Z",
             "owner": "pessimistic-io",
             "repo": "slitherin",
-            "stars": 376
+            "stars": 377
           }
         },
         {
@@ -300,7 +300,7 @@
             "archived": false,
             "id": 353710215,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T19:35:40Z",
+            "last_commit": "2026-08-21T15:30:53Z",
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
             "stars": 210
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:46:59.647Z",
+    "last_updated": "2026-08-22T11:40:11.201Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_id": 646066390,
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
