@@ -27,10 +27,10 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-22T08:04:53Z",
+            "last_commit": "2026-08-23T11:26:23Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10565
+            "stars": 10568
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T07:25:28Z",
+            "last_commit": "2026-08-23T11:35:48Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8505
+            "stars": 8506
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 326840499,
             "language": "Python",
-            "last_commit": "2026-08-21T22:20:25Z",
+            "last_commit": "2026-08-22T12:28:29Z",
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1053
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-14T23:14:32Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3169
+            "stars": 3170
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-19T20:51:02Z",
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 483
+            "stars": 484
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-21T15:30:53Z",
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
-            "stars": 210
+            "stars": 211
           }
         }
       ],
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-13T13:28:54Z",
             "owner": "protofire",
             "repo": "solhint",
-            "stars": 1125
+            "stars": 1126
           }
         },
         {
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 499880203,
             "language": "Rust",
-            "last_commit": "2026-08-16T00:09:09Z",
+            "last_commit": "2026-08-23T00:09:02Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
             "stars": 1599
@@ -396,7 +396,7 @@
             "last_commit": "2026-07-06T06:34:50Z",
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1314
+            "stars": 1315
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:40:11.201Z",
+    "last_updated": "2026-08-23T11:39:49.321Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_id": 646066390,
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
