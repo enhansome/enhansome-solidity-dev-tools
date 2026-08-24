@@ -15,7 +15,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13916
+            "stars": 13914
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-24T11:33:35Z",
+            "last_commit": "2026-08-24T14:44:33Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10570
+            "stars": 10571
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:19:40Z",
+            "last_commit": "2026-08-24T14:47:38Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
             "stars": 8505
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:47:54.858Z",
+    "last_updated": "2026-08-24T14:51:20.809Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_id": 646066390,
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",

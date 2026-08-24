@@ -10,7 +10,7 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,570 | 🐛 286 | 🌐 Rust | 📅 2026-08-24*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,571 | 🐛 283 | 🌐 Rust | 📅 2026-08-24*
 
 * *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 624 | 🌐 TypeScript | 📅 2026-08-24*
 
