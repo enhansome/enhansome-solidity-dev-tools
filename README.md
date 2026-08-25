@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 290 | 🌐 Rust | 📅 2026-08-25*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 291 | 🌐 Rust | 📅 2026-08-25*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 625 | 🌐 TypeScript | 📅 2026-08-24*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,506 | 🐛 624 | 🌐 TypeScript | 📅 2026-08-25*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 397 | 🌐 C | 📅 2026-08-05*
 
