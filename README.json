@@ -15,7 +15,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13914
+            "stars": 13915
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-25T10:33:48Z",
+            "last_commit": "2026-08-26T11:20:48Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10573
+            "stars": 10575
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T11:28:05Z",
+            "last_commit": "2026-08-26T11:40:57Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
             "stars": 8506
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6351
+            "stars": 6353
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-11-17T15:10:36Z",
             "owner": "0xKitsune",
             "repo": "solstat",
-            "stars": 427
+            "stars": 428
           }
         },
         {
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 499880203,
             "language": "Rust",
-            "last_commit": "2026-08-24T17:35:38Z",
+            "last_commit": "2026-08-25T16:20:39Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
             "stars": 1601
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:48:29.481Z",
+    "last_updated": "2026-08-26T11:49:54.287Z",
     "original_repository": "0xcacti/awesome-solidity-dev-tools",
     "original_repository_id": 646066390,
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",

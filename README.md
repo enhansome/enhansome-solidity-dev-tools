@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 291 | 🌐 Rust | 📅 2026-08-25*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,575 | 🐛 283 | 🌐 Rust | 📅 2026-08-26*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,506 | 🐛 624 | 🌐 TypeScript | 📅 2026-08-25*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,506 | 🐛 628 | 🌐 TypeScript | 📅 2026-08-26*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 397 | 🌐 C | 📅 2026-08-05*
 
@@ -24,7 +24,7 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,351 | 🐛 473 | 🌐 Python | 📅 2026-08-19*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,353 | 🐛 473 | 🌐 Python | 📅 2026-08-19*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -32,7 +32,7 @@
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
-* *[Solstat](https://github.com/0xKitsune/solstat) ⭐ 427 | 🐛 32 | 🌐 Rust | 📅 2023-11-17*
+* *[Solstat](https://github.com/0xKitsune/solstat) ⭐ 428 | 🐛 32 | 🌐 Rust | 📅 2023-11-17*
 
 * *[Slitherin](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,170 | 🐛 100 | 🌐 Haskell | 📅 2026-08-25*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,170 | 🐛 102 | 🌐 Haskell | 📅 2026-08-25*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,108 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,601 | 🐛 20 | 🌐 Rust | 📅 2026-08-24*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,601 | 🐛 20 | 🌐 Rust | 📅 2026-08-25*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 355 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
