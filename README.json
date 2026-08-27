@@ -27,10 +27,10 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-26T11:20:48Z",
+            "last_commit": "2026-08-27T11:52:04Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10575
+            "stars": 10569
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:40:57Z",
+            "last_commit": "2026-08-27T09:22:24Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
             "stars": 8506
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 147583941,
             "language": "Python",
-            "last_commit": "2026-08-19T22:55:02Z",
+            "last_commit": "2026-08-26T22:54:54Z",
             "owner": "crytic",
             "repo": "slither",
             "stars": 6353
@@ -126,7 +126,7 @@
             "last_commit": "2026-06-24T16:28:22Z",
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3858
+            "stars": 3857
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 101585932,
             "language": "Haskell",
-            "last_commit": "2026-08-25T06:19:25Z",
+            "last_commit": "2026-08-26T21:34:24Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3170
+            "stars": 3171
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-25T16:20:39Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1601
+            "stars": 1603
           }
         },
         {
@@ -494,9 +494,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:49:54.287Z",
-    "original_repository": "0xcacti/awesome-solidity-dev-tools",
-    "original_repository_id": 646066390,
+    "last_updated": "2026-08-27T12:05:31.118Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 646066390,
+      "language": null,
+      "last_commit": "2023-10-20T02:19:39Z",
+      "owner": "0xcacti",
+      "repo": "awesome-solidity-dev-tools",
+      "stars": 82
+    },
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
     "enhanced_repository": "enhansome/enhansome-solidity-dev-tools",
     "enhanced_repository_description": null,
