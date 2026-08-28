@@ -16,7 +16,8 @@
             "owner": "ConsenSys-archive",
             "repo": "truffle",
             "stars": 13915
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-27T20:30:43Z",
+            "last_commit": "2026-08-28T21:24:26Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10571
-          }
+            "stars": 10572
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 129558668,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:54:09Z",
+            "last_commit": "2026-08-28T19:16:58Z",
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8505
-          }
+            "stars": 8504
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "eth-brownie",
             "repo": "brownie",
             "stars": 2723
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "dapphub",
             "repo": "dapptools",
             "stars": 2121
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 326840499,
             "language": "Python",
-            "last_commit": "2026-08-22T12:28:29Z",
+            "last_commit": "2026-08-27T22:42:24Z",
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1053
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         }
       ],
       "title": "ToolKits"
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-26T22:54:54Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6353
-          }
+            "stars": 6354
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-06-24T16:28:22Z",
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3857
-          }
+            "stars": 3858
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "a16z",
             "repo": "halmos",
             "stars": 1028
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "nascentxyz",
             "repo": "pyrometer",
             "stars": 797
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "0xKitsune",
             "repo": "solstat",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "pessimistic-io",
             "repo": "slitherin",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "byterocket",
             "repo": "c4udit",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         }
       ],
       "title": "Static Analysis & Symbolic Execution"
@@ -223,7 +236,8 @@
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3171
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "fuzzland",
             "repo": "ityfuzz",
             "stars": 1108
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "crytic",
             "repo": "medusa",
             "stars": 485
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "0xNazgul",
             "repo": "fuzzydefi",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         }
       ],
       "title": "Fuzzing"
@@ -289,7 +306,8 @@
             "owner": "juanfranblanco",
             "repo": "vscode-solidity",
             "stars": 957
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         }
       ],
       "title": "LSPs"
@@ -325,7 +344,8 @@
             "owner": "protofire",
             "repo": "solhint",
             "stars": 1127
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "ScopeLift",
             "repo": "scopelint",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         }
       ],
       "title": "Linting"
@@ -360,8 +381,9 @@
             "last_commit": "2026-08-25T16:20:39Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1604
-          }
+            "stars": 1605
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "quilt",
             "repo": "etk",
             "stars": 355
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         }
       ],
       "title": "Decompilers and Disassemblers"
@@ -397,7 +420,8 @@
             "owner": "naddison36",
             "repo": "sol2uml",
             "stars": 1315
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -411,8 +435,9 @@
             "last_commit": "2026-07-01T20:36:39Z",
             "owner": "harnesslabs",
             "repo": "arbiter",
-            "stars": 746
-          }
+            "stars": 745
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -427,7 +452,8 @@
             "owner": "crytic",
             "repo": "etheno",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -442,7 +468,8 @@
             "owner": "nomoixyz",
             "repo": "vulcan",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -457,7 +484,8 @@
             "owner": "rainshowerLabs",
             "repo": "sothis",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -472,7 +500,8 @@
             "owner": "tintinweb",
             "repo": "solgrep",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         },
         {
           "node_type": "item",
@@ -487,14 +516,15 @@
             "owner": "crytic",
             "repo": "diffusc",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:27:19.968Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:03:30.882Z",
+    "last_updated": "2026-08-28T21:27:19.968Z",
     "original_repository_info": {
       "archived": false,
       "id": 646066390,
