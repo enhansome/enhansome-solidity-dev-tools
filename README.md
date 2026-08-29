@@ -10,7 +10,7 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,572 | 🐛 279 | 🌐 Rust | 📅 2026-08-28*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 283 | 🌐 Rust | 📅 2026-08-29*
 
 * *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 629 | 🌐 TypeScript | 📅 2026-08-28*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

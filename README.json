@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.",
+            "homepage": "https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat?utm_source=github&utm_medium=referral&utm_campaign=2023_Sep_truffle-sunset-2023_announcement_",
             "id": 38267641,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-22T08:47:19Z",
+            "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13915
+            "stars": 13915,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "framework",
+              "hacktoberfest",
+              "javascript",
+              "smart-contract-tools",
+              "smart-contracts",
+              "solidity",
+              "truffle"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -26,12 +41,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+            "homepage": "https://getfoundry.sh/",
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-28T21:24:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:28:02Z",
+            "open_issues": 283,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10572
+            "stars": 10573,
+            "topics": [
+              "alloy",
+              "blockchain",
+              "bytecode",
+              "compiler",
+              "compilers",
+              "dapp",
+              "eth",
+              "ethereum",
+              "evm",
+              "framework",
+              "fuzzing",
+              "ir",
+              "rust",
+              "smart-contracts",
+              "solidity",
+              "tempo",
+              "testing",
+              "tooling",
+              "toolkit",
+              "vyper"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -42,12 +83,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. ",
+            "homepage": "https://hardhat.org",
             "id": 129558668,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:16:58Z",
+            "open_issues": 629,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8504
+            "stars": 8504,
+            "topics": [
+              "blockchain",
+              "dapps",
+              "debugging",
+              "ethereum",
+              "javascript",
+              "smart-contracts",
+              "solidity",
+              "task-runner",
+              "tooling",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -58,12 +115,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
+            "homepage": "https://eth-brownie.readthedocs.io",
             "id": 155913585,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-05T06:41:17Z",
+            "open_issues": 397,
             "owner": "eth-brownie",
             "repo": "brownie",
-            "stars": 2723
+            "stars": 2723,
+            "topics": [
+              "ethereum",
+              "solidity",
+              "vyper",
+              "web3py"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -74,12 +141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dapp, Seth, Hevm, and more",
+            "homepage": "https://dapp.tools",
             "id": 137069125,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2025-02-25T19:28:22Z",
+            "open_issues": 171,
             "owner": "dapphub",
             "repo": "dapptools",
-            "stars": 2121
+            "stars": 2121,
+            "topics": [
+              "dapp",
+              "ethereum",
+              "evm",
+              "nix",
+              "solc",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -90,12 +169,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and explore on-chain with Python",
+            "homepage": "https://docs.apeworx.io/ape/stable/userguides/quickstart",
             "id": 326840499,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:42:24Z",
+            "open_issues": 189,
             "owner": "ApeWorX",
             "repo": "ape",
-            "stars": 1053
+            "stars": 1053,
+            "topics": [
+              "ape",
+              "apeworx",
+              "brownie",
+              "defi",
+              "developer-tools",
+              "ethereum",
+              "framework",
+              "nft",
+              "python",
+              "smart-contracts",
+              "solidity",
+              "vyper",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         }
@@ -112,12 +210,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static Analyzer for Solidity and Vyper",
+            "homepage": "https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/",
             "id": 147583941,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T22:54:54Z",
+            "open_issues": 473,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6354
+            "stars": 6354,
+            "topics": [
+              "ethereum",
+              "solidity",
+              "static-analysis",
+              "vyper"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -128,12 +236,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Symbolic execution tool",
+            "homepage": "https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/",
             "id": 81612762,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-24T16:28:22Z",
+            "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3858
+            "stars": 3858,
+            "topics": [
+              "binary-analysis",
+              "blockchain",
+              "emulation",
+              "ethereum",
+              "program-analysis",
+              "python",
+              "security",
+              "smt",
+              "symbolic-execution",
+              "testing",
+              "z3"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -144,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A symbolic testing tool for EVM smart contracts",
+            "homepage": null,
             "id": 577492459,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-06T19:05:39Z",
+            "open_issues": 74,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1028
+            "stars": 1028,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -160,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for analyzing the security and parameters of a solidity smart contract",
+            "homepage": null,
             "id": 586608936,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-14T15:41:16Z",
+            "open_issues": 15,
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 797
+            "stars": 797,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -176,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies. ",
+            "homepage": null,
             "id": 553185360,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-11-17T15:10:36Z",
+            "open_issues": 32,
             "owner": "0xKitsune",
             "repo": "solstat",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -192,12 +332,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slither Detectors by Pessimistic.io",
+            "homepage": "https://pessimistic.io/",
             "id": 536081843,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-06-25T10:20:17Z",
+            "open_issues": 6,
             "owner": "pessimistic-io",
             "repo": "slitherin",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "ethereum",
+              "plugin",
+              "slither",
+              "solidity",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -208,12 +359,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static analyzer for solidity contracts based on regexs specifically crafted for code4rena contests",
+            "homepage": null,
             "id": 451480801,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-02T21:55:03Z",
+            "open_issues": 0,
             "owner": "byterocket",
             "repo": "c4udit",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "analyzer",
+              "audit",
+              "ethereum",
+              "evm",
+              "research",
+              "security",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         }
@@ -230,12 +394,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum smart contract fuzzer",
+            "homepage": "https://secure-contracts.com/program-analysis/echidna/index.html",
             "id": 101585932,
             "language": "Haskell",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T13:12:52Z",
+            "open_issues": 102,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3171
+            "stars": 3171,
+            "topics": [
+              "ethereum",
+              "evm",
+              "fuzzer",
+              "security",
+              "smart-contracts",
+              "solidity",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -246,12 +423,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts",
+            "homepage": "https://docs.ityfuzz.rs",
             "id": 557020771,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-10T00:09:48Z",
+            "open_issues": 63,
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1108
+            "stars": 1108,
+            "topics": [
+              "aptos",
+              "blockchain",
+              "concolic-execution",
+              "ethereum",
+              "evm",
+              "fuzzing",
+              "move",
+              "smart-contracts",
+              "solidity",
+              "sui"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -262,12 +455,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum",
+            "homepage": "https://secure-contracts.com/program-analysis/medusa/docs/src/",
             "id": 401814297,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-19T20:51:02Z",
+            "open_issues": 74,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 485
+            "stars": 485,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -278,12 +476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-built security properties for commonly forked DeFi protocols",
+            "homepage": null,
             "id": 651697676,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2023-11-07T22:24:23Z",
+            "open_issues": 0,
             "owner": "0xNazgul",
             "repo": "fuzzydefi",
-            "stars": 197
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         }
@@ -300,12 +503,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code language support extension for Solidity smart contracts in Ethereum https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity",
+            "homepage": null,
             "id": 46474204,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-28T05:22:32Z",
+            "open_issues": 151,
             "owner": "juanfranblanco",
             "repo": "vscode-solidity",
-            "stars": 957
+            "stars": 957,
+            "topics": [
+              "ethereum",
+              "solidity",
+              "solidity-contracts",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -316,12 +529,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solidity and Hardhat support for Visual Studio Code",
+            "homepage": "https://hardhat.org",
             "id": 353710215,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T15:30:53Z",
+            "open_issues": 94,
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "ethereum",
+              "hardhat",
+              "solidity",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         }
@@ -338,12 +561,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solhint is an open-source project to provide a linting utility for Solidity code.",
+            "homepage": "https://protofire.github.io/solhint/",
             "id": 107120334,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T13:28:54Z",
+            "open_issues": 3,
             "owner": "protofire",
             "repo": "solhint",
-            "stars": 1127
+            "stars": 1127,
+            "topics": [
+              "ast",
+              "code-quality",
+              "dapp",
+              "developer-tools",
+              "ethereum",
+              "linter",
+              "security-scanner",
+              "smart-contracts",
+              "solhint",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -354,12 +593,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔬 An opinionated formatting and linting tool for foundry projects",
+            "homepage": "https://scopelift.co/blog/tag/scopelint",
             "id": 546778710,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-13T02:54:11Z",
+            "open_issues": 7,
             "owner": "ScopeLift",
             "repo": "scopelint",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "foundry",
+              "linters",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         }
@@ -376,12 +625,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.",
+            "homepage": "http://heimdall.rs",
             "id": 499880203,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:20:39Z",
+            "open_issues": 20,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1605
+            "stars": 1605,
+            "topics": [
+              "cfg",
+              "decoder",
+              "decompiler",
+              "disassembler",
+              "eth",
+              "ethereum",
+              "evm",
+              "rust",
+              "security",
+              "solidity",
+              "toolkit",
+              "yul"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -392,12 +659,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "evm toolkit",
+            "homepage": null,
             "id": 337157801,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-21T14:03:45Z",
+            "open_issues": 40,
             "owner": "quilt",
             "repo": "etk",
-            "stars": 355
+            "stars": 355,
+            "topics": [
+              "assembler",
+              "cryptocurrency",
+              "ethereum",
+              "evm"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         }
@@ -414,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solidity contract visualisation tool",
+            "homepage": null,
             "id": 168141555,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-06T06:34:50Z",
+            "open_issues": 16,
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1315
+            "stars": 1315,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -430,12 +712,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-agent framework for design, simulation, and auditing.",
+            "homepage": null,
             "id": 567327580,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-01T20:36:39Z",
+            "open_issues": 10,
             "owner": "harnesslabs",
             "repo": "arbiter",
-            "stars": 745
+            "stars": 745,
+            "topics": [
+              "rust",
+              "simulation-framework"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -446,12 +736,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simplify Ethereum security analysis and testing",
+            "homepage": null,
             "id": 138937540,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-02-14T15:58:57Z",
+            "open_issues": 37,
             "owner": "crytic",
             "repo": "etheno",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "differential-testing",
+              "ethereum",
+              "ganache",
+              "solidity",
+              "symbolic-execution",
+              "truffle"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -462,12 +764,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development framework for Foundry projects",
+            "homepage": "https://nomoixyz.github.io/vulcan/",
             "id": 573133593,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2025-04-23T12:17:53Z",
+            "open_issues": 14,
             "owner": "nomoixyz",
             "repo": "vulcan",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "ethereum",
+              "forge",
+              "foundry",
+              "foundry-rs",
+              "huff",
+              "rust",
+              "solidity",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -478,12 +794,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replay and track historical state",
+            "homepage": null,
             "id": 643605922,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2025-01-31T12:03:32Z",
+            "open_issues": 11,
             "owner": "rainshowerLabs",
             "repo": "sothis",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "anvil",
+              "ethereum",
+              "foundry",
+              "hardhat",
+              "json-rpc",
+              "revm"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -494,12 +822,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 A scriptable semantic grep utility for solidity",
+            "homepage": "https://www.npmjs.com/package/solgrep",
             "id": 429887734,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-08T10:53:54Z",
+            "open_issues": 3,
             "owner": "tintinweb",
             "repo": "solgrep",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "grep",
+              "search",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         },
@@ -510,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Experimental tool to ease the review of smart contracts upgrades",
+            "homepage": null,
             "id": 662653707,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2024-03-25T09:17:58Z",
+            "open_issues": 3,
             "owner": "crytic",
             "repo": "diffusc",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
         }
@@ -524,15 +866,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:27:19.968Z",
+    "last_updated": "2026-08-29T04:59:24.859Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
+      "homepage": null,
       "id": 646066390,
       "language": null,
+      "license": null,
       "last_commit": "2023-10-20T02:19:39Z",
+      "open_issues": 1,
       "owner": "0xcacti",
       "repo": "awesome-solidity-dev-tools",
-      "stars": 82
+      "stars": 82,
+      "topics": [
+        "awesome-list",
+        "developer-tools",
+        "solidity",
+        "web3"
+      ]
     },
     "original_repository_sha": "f644c132a792a48793b8f82077a86aa97d15585c",
     "enhanced_repository": "enhansome/enhansome-solidity-dev-tools",
