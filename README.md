@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 283 | 🌐 Rust | 📅 2026-08-29*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 285 | 🌐 Rust | 📅 2026-08-29*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 629 | 🌐 TypeScript | 📅 2026-08-28*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 629 | 🌐 TypeScript | 📅 2026-08-28*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 397 | 🌐 C | 📅 2026-08-05*
 
@@ -24,7 +24,7 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,354 | 🐛 473 | 🌐 Python | 📅 2026-08-26*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,355 | 🐛 473 | 🌐 Python | 📅 2026-08-26*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,171 | 🐛 102 | 🌐 Haskell | 📅 2026-08-27*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,172 | 🐛 102 | 🌐 Haskell | 📅 2026-08-27*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,108 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -52,7 +52,7 @@
 
 ## LSPs
 
-* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 957 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
+* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
 * *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-21*
 

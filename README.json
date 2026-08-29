@@ -46,8 +46,8 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:28:02Z",
-            "open_issues": 283,
+            "last_commit": "2026-08-29T15:38:32Z",
+            "open_issues": 285,
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10573,
@@ -92,7 +92,7 @@
             "open_issues": 629,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8504,
+            "stars": 8505,
             "topics": [
               "blockchain",
               "dapps",
@@ -219,7 +219,7 @@
             "open_issues": 473,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6354,
+            "stars": 6355,
             "topics": [
               "ethereum",
               "solidity",
@@ -403,7 +403,7 @@
             "open_issues": 102,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3171,
+            "stars": 3172,
             "topics": [
               "ethereum",
               "evm",
@@ -512,7 +512,7 @@
             "open_issues": 151,
             "owner": "juanfranblanco",
             "repo": "vscode-solidity",
-            "stars": 957,
+            "stars": 958,
             "topics": [
               "ethereum",
               "solidity",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:24.859Z",
+    "last_updated": "2026-08-29T15:40:03.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
