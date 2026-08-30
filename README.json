@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T15:38:32Z",
-            "open_issues": 285,
+            "last_commit": "2026-08-30T14:02:05Z",
+            "open_issues": 283,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10573,
+            "stars": 10574,
             "topics": [
               "alloy",
               "blockchain",
@@ -92,7 +92,7 @@
             "open_issues": 629,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8505,
+            "stars": 8506,
             "topics": [
               "blockchain",
               "dapps",
@@ -245,7 +245,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3858,
+            "stars": 3857,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -403,7 +403,7 @@
             "open_issues": 102,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3172,
+            "stars": 3173,
             "topics": [
               "ethereum",
               "evm",
@@ -461,7 +461,7 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-19T20:51:02Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "crytic",
             "repo": "medusa",
             "stars": 485,
@@ -570,7 +570,7 @@
             "open_issues": 3,
             "owner": "protofire",
             "repo": "solhint",
-            "stars": 1127,
+            "stars": 1126,
             "topics": [
               "ast",
               "code-quality",
@@ -630,11 +630,11 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-25T16:20:39Z",
+            "last_commit": "2026-08-30T00:20:56Z",
             "open_issues": 20,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1605,
+            "stars": 1603,
             "topics": [
               "cfg",
               "decoder",
@@ -700,7 +700,7 @@
             "open_issues": 16,
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1315,
+            "stars": 1314,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:40:03.794Z",
+    "last_updated": "2026-08-30T15:22:22.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
