@@ -10,11 +10,11 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,574 | 🐛 283 | 🌐 Rust | 📅 2026-08-30*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,576 | 🐛 273 | 🌐 Rust | 📅 2026-08-31*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,506 | 🐛 629 | 🌐 TypeScript | 📅 2026-08-28*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 630 | 🌐 TypeScript | 📅 2026-08-31*
 
-* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 397 | 🌐 C | 📅 2026-08-05*
+* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,121 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
@@ -24,7 +24,7 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,355 | 🐛 473 | 🌐 Python | 📅 2026-08-26*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,356 | 🐛 474 | 🌐 Python | 📅 2026-08-26*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,9 +42,9 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 102 | 🌐 Haskell | 📅 2026-08-27*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 101 | 🌐 Haskell | 📅 2026-08-31*
 
-* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,108 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
+* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,109 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
 * *[Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 75 | 🌐 Go | 📅 2026-08-19*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
