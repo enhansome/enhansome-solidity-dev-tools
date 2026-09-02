@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,577 | 🐛 276 | 🌐 Rust | 📅 2026-09-01*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,579 | 🐛 272 | 🌐 Rust | 📅 2026-09-02*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 630 | 🌐 TypeScript | 📅 2026-09-01*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 626 | 🌐 TypeScript | 📅 2026-09-02*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -24,7 +24,7 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,357 | 🐛 474 | 🌐 Python | 📅 2026-08-26*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,359 | 🐛 474 | 🌐 Python | 📅 2026-08-26*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,172 | 🐛 102 | 🌐 Haskell | 📅 2026-08-31*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,172 | 🐛 105 | 🌐 Haskell | 📅 2026-09-02*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,109 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 75 | 🌐 Go | 📅 2026-08-19*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 77 | 🌐 Go | 📅 2026-08-19*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -54,7 +54,7 @@
 
 * *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-01*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-02*
 
 ## Linting
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
