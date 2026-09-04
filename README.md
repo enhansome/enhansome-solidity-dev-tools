@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,578 | 🐛 286 | 🌐 Rust | 📅 2026-09-03*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,577 | 🐛 276 | 🌐 Rust | 📅 2026-09-04*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,503 | 🐛 630 | 🌐 TypeScript | 📅 2026-09-03*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 630 | 🌐 TypeScript | 📅 2026-09-04*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 106 | 🌐 Haskell | 📅 2026-09-02*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 107 | 🌐 Haskell | 📅 2026-09-03*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,110 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -54,7 +54,7 @@
 
 * *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-03*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-04*
 
 ## Linting
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
