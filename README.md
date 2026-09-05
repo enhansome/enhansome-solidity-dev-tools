@@ -10,7 +10,7 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,577 | 🐛 276 | 🌐 Rust | 📅 2026-09-04*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,580 | 🐛 284 | 🌐 Rust | 📅 2026-09-05*
 
 * *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 630 | 🌐 TypeScript | 📅 2026-09-04*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 107 | 🌐 Haskell | 📅 2026-09-03*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,110 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 77 | 🌐 Go | 📅 2026-08-19*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 78 | 🌐 Go | 📅 2026-08-19*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -54,7 +54,7 @@
 
 * *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-04*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-05*
 
 ## Linting
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,605 | 🐛 27 | 🌐 Rust | 📅 2026-09-03*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,606 | 🐛 21 | 🌐 Rust | 📅 2026-09-05*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 355 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
