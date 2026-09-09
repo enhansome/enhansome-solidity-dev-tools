@@ -10,21 +10,21 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,583 | 🐛 275 | 🌐 Rust | 📅 2026-09-08*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,586 | 🐛 272 | 🌐 Rust | 📅 2026-09-09*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 630 | 🌐 TypeScript | 📅 2026-09-07*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 631 | 🌐 TypeScript | 📅 2026-09-09*
 
-* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,723 | 🐛 398 | 🌐 C | 📅 2026-08-05*
+* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,051 | 🐛 189 | 🌐 Python | 📅 2026-08-27*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,052 | 🐛 189 | 🌐 Python | 📅 2026-08-27*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,357 | 🐛 478 | 🌐 Python | 📅 2026-09-02*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,361 | 🐛 478 | 🌐 Python | 📅 2026-09-02*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,175 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,175 | 🐛 108 | 🌐 Haskell | 📅 2026-09-08*
 
-* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,112 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
+* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,114 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 80 | 🌐 Go | 📅 2026-08-19*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 75 | 🌐 Go | 📅 2026-09-08*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 196 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
