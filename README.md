@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,590 | 🐛 262 | 🌐 Rust | 📅 2026-09-10*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,593 | 🐛 267 | 🌐 Rust | 📅 2026-09-11*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 631 | 🌐 TypeScript | 📅 2026-09-09*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 632 | 🌐 TypeScript | 📅 2026-09-09*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -28,7 +28,7 @@
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,028 | 🐛 79 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,030 | 🐛 79 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,177 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 113 | 🌐 Haskell | 📅 2026-09-10*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,114 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 487 | 🐛 75 | 🌐 Go | 📅 2026-09-09*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 75 | 🌐 Go | 📅 2026-09-09*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 196 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -58,13 +58,13 @@
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,125 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-10*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,126 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-10*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 7 | 🌐 Rust | 📅 2026-08-13*
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,610 | 🐛 42 | 🌐 Rust | 📅 2026-09-09*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,611 | 🐛 41 | 🌐 Rust | 📅 2026-09-10*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 355 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
