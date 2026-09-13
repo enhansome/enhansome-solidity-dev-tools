@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T13:57:58Z",
-            "open_issues": 276,
+            "last_commit": "2026-09-13T14:52:17Z",
+            "open_issues": 281,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10593,
+            "stars": 10594,
             "topics": [
               "alloy",
               "blockchain",
@@ -175,7 +175,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:42:24Z",
-            "open_issues": 190,
+            "open_issues": 189,
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1053,
@@ -245,7 +245,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3855,
+            "stars": 3856,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -400,7 +400,7 @@
             "language": "Haskell",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-10T19:07:35Z",
-            "open_issues": 113,
+            "open_issues": 112,
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3176,
@@ -630,11 +630,11 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T17:02:22Z",
+            "last_commit": "2026-09-13T02:37:14Z",
             "open_issues": 41,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1611,
+            "stars": 1614,
             "topics": [
               "cfg",
               "decoder",
@@ -831,7 +831,7 @@
             "open_issues": 3,
             "owner": "tintinweb",
             "repo": "solgrep",
-            "stars": 144,
+            "stars": 143,
             "topics": [
               "grep",
               "search",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:13:23.213Z",
+    "last_updated": "2026-09-13T14:56:25.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",

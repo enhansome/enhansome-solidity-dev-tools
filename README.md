@@ -10,7 +10,7 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,593 | 🐛 276 | 🌐 Rust | 📅 2026-09-12*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,594 | 🐛 281 | 🌐 Rust | 📅 2026-09-13*
 
 * *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 633 | 🌐 TypeScript | 📅 2026-09-09*
 
@@ -18,7 +18,7 @@
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 190 | 🌐 Python | 📅 2026-08-27*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 189 | 🌐 Python | 📅 2026-08-27*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 113 | 🌐 Haskell | 📅 2026-09-10*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,114 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,611 | 🐛 41 | 🌐 Rust | 📅 2026-09-10*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,614 | 🐛 41 | 🌐 Rust | 📅 2026-09-13*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 355 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -84,7 +84,7 @@
 
 * *[Sothis](https://github.com/rainshowerLabs/sothis) ⭐ 219 | 🐛 11 | 🌐 Rust | 📅 2025-01-31*
 
-* *[Solgrep](https://github.com/tintinweb/solgrep) ⭐ 144 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-08*
+* *[Solgrep](https://github.com/tintinweb/solgrep) ⭐ 143 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-08*
 
 * *[diffusc](https://github.com/crytic/diffusc) ⚠️ Archived*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
