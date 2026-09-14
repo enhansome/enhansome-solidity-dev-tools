@@ -10,15 +10,15 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,594 | 🐛 281 | 🌐 Rust | 📅 2026-09-13*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,597 | 🐛 273 | 🌐 Rust | 📅 2026-09-14*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 633 | 🌐 TypeScript | 📅 2026-09-09*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 625 | 🌐 TypeScript | 📅 2026-09-14*
 
-* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
+* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,721 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
-* *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
+* *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,121 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 189 | 🌐 Python | 📅 2026-08-27*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,052 | 🐛 189 | 🌐 Python | 📅 2026-08-27*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
@@ -28,7 +28,7 @@
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,031 | 🐛 79 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,030 | 🐛 79 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,19 +42,19 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,175 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,114 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 487 | 🐛 75 | 🌐 Go | 📅 2026-09-09*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 75 | 🌐 Go | 📅 2026-09-09*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 196 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
 ## LSPs
 
-* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
+* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 957 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-05*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 210 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-14*
 
 ## Linting
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
