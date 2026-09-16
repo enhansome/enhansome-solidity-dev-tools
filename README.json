@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13910,
+            "stars": 13909,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:51:50Z",
-            "open_issues": 281,
+            "last_commit": "2026-09-16T14:08:11Z",
+            "open_issues": 282,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10602,
+            "stars": 10603,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T15:17:29Z",
-            "open_issues": 621,
+            "last_commit": "2026-09-16T14:13:13Z",
+            "open_issues": 620,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8504,
+            "stars": 8505,
             "topics": [
               "blockchain",
               "dapps",
@@ -150,7 +150,7 @@
             "open_issues": 171,
             "owner": "dapphub",
             "repo": "dapptools",
-            "stars": 2121,
+            "stars": 2122,
             "topics": [
               "dapp",
               "ethereum",
@@ -174,7 +174,7 @@
             "id": 326840499,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T20:13:16Z",
+            "last_commit": "2026-09-16T10:44:36Z",
             "open_issues": 189,
             "owner": "ApeWorX",
             "repo": "ape",
@@ -278,7 +278,7 @@
             "open_issues": 79,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1030,
+            "stars": 1031,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -400,7 +400,7 @@
             "language": "Haskell",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-10T19:07:35Z",
-            "open_issues": 111,
+            "open_issues": 113,
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3176,
@@ -461,7 +461,7 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-09T18:24:42Z",
-            "open_issues": 75,
+            "open_issues": 78,
             "owner": "crytic",
             "repo": "medusa",
             "stars": 486,
@@ -534,7 +534,7 @@
             "id": 353710215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T12:56:37Z",
+            "last_commit": "2026-09-16T11:26:39Z",
             "open_issues": 94,
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
@@ -634,7 +634,7 @@
             "open_issues": 40,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1614,
+            "stars": 1616,
             "topics": [
               "cfg",
               "decoder",
@@ -668,7 +668,7 @@
             "open_issues": 40,
             "owner": "quilt",
             "repo": "etk",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "assembler",
               "cryptocurrency",
@@ -721,7 +721,7 @@
             "open_issues": 10,
             "owner": "harnesslabs",
             "repo": "arbiter",
-            "stars": 746,
+            "stars": 747,
             "topics": [
               "rust",
               "simulation-framework"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:36:21.107Z",
+    "last_updated": "2026-09-16T15:26:39.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
