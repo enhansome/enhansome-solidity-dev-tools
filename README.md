@@ -10,21 +10,21 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,603 | 🐛 282 | 🌐 Rust | 📅 2026-09-16*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,607 | 🐛 272 | 🌐 Rust | 📅 2026-09-17*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,505 | 🐛 620 | 🌐 TypeScript | 📅 2026-09-16*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,504 | 🐛 618 | 🌐 TypeScript | 📅 2026-09-17*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 189 | 🌐 Python | 📅 2026-09-16*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,052 | 🐛 188 | 🌐 Python | 📅 2026-09-16*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,362 | 🐛 478 | 🌐 Python | 📅 2026-09-09*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,363 | 🐛 478 | 🌐 Python | 📅 2026-09-09*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 113 | 🌐 Haskell | 📅 2026-09-10*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 114 | 🌐 Haskell | 📅 2026-09-16*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,114 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -58,7 +58,7 @@
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,126 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,125 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 7 | 🌐 Rust | 📅 2026-08-13*
 
@@ -76,7 +76,7 @@
 
 * *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,314 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-06*
 
-* *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 747 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
+* *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 748 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
 * *[Etheno](https://github.com/crytic/etheno) ⚠️ Archived*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T14:08:11Z",
-            "open_issues": 282,
+            "last_commit": "2026-09-17T14:53:10Z",
+            "open_issues": 272,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10603,
+            "stars": 10607,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T14:13:13Z",
-            "open_issues": 620,
+            "last_commit": "2026-09-17T14:36:41Z",
+            "open_issues": 618,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8505,
+            "stars": 8504,
             "topics": [
               "blockchain",
               "dapps",
@@ -174,11 +174,11 @@
             "id": 326840499,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T10:44:36Z",
-            "open_issues": 189,
+            "last_commit": "2026-09-16T16:58:51Z",
+            "open_issues": 188,
             "owner": "ApeWorX",
             "repo": "ape",
-            "stars": 1053,
+            "stars": 1052,
             "topics": [
               "ape",
               "apeworx",
@@ -219,7 +219,7 @@
             "open_issues": 478,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6362,
+            "stars": 6363,
             "topics": [
               "ethereum",
               "solidity",
@@ -399,8 +399,8 @@
             "id": 101585932,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T19:07:35Z",
-            "open_issues": 113,
+            "last_commit": "2026-09-16T21:34:15Z",
+            "open_issues": 114,
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3176,
@@ -570,7 +570,7 @@
             "open_issues": 8,
             "owner": "protofire",
             "repo": "solhint",
-            "stars": 1126,
+            "stars": 1125,
             "topics": [
               "ast",
               "code-quality",
@@ -721,7 +721,7 @@
             "open_issues": 10,
             "owner": "harnesslabs",
             "repo": "arbiter",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "rust",
               "simulation-framework"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:26:39.667Z",
+    "last_updated": "2026-09-17T15:34:19.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
