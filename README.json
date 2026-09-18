@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T14:53:10Z",
-            "open_issues": 272,
+            "last_commit": "2026-09-18T14:33:15Z",
+            "open_issues": 276,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10607,
+            "stars": 10609,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T14:36:41Z",
-            "open_issues": 618,
+            "last_commit": "2026-09-18T14:55:55Z",
+            "open_issues": 616,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8504,
+            "stars": 8506,
             "topics": [
               "blockchain",
               "dapps",
@@ -219,7 +219,7 @@
             "open_issues": 478,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6363,
+            "stars": 6362,
             "topics": [
               "ethereum",
               "solidity",
@@ -403,7 +403,7 @@
             "open_issues": 114,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3176,
+            "stars": 3177,
             "topics": [
               "ethereum",
               "evm",
@@ -538,7 +538,7 @@
             "open_issues": 94,
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "ethereum",
               "hardhat",
@@ -634,7 +634,7 @@
             "open_issues": 40,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1616,
+            "stars": 1617,
             "topics": [
               "cfg",
               "decoder",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:34:19.261Z",
+    "last_updated": "2026-09-18T15:02:17.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
