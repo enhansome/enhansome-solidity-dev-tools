@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,611 | 🐛 275 | 🌐 Rust | 📅 2026-09-19*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,612 | 🐛 273 | 🌐 Rust | 📅 2026-09-20*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,506 | 🐛 616 | 🌐 TypeScript | 📅 2026-09-18*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,507 | 🐛 616 | 🌐 TypeScript | 📅 2026-09-19*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,618 | 🐛 40 | 🌐 Rust | 📅 2026-09-14*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,617 | 🐛 40 | 🌐 Rust | 📅 2026-09-20*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 356 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
