@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13909,
+            "stars": 13908,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T17:03:42Z",
-            "open_issues": 266,
+            "last_commit": "2026-09-22T14:14:02Z",
+            "open_issues": 270,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10615,
+            "stars": 10617,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T15:43:05Z",
-            "open_issues": 614,
+            "last_commit": "2026-09-22T14:44:14Z",
+            "open_issues": 617,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8508,
+            "stars": 8507,
             "topics": [
               "blockchain",
               "dapps",
@@ -566,8 +566,8 @@
             "id": 107120334,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T10:08:16Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-22T02:40:58Z",
+            "open_issues": 5,
             "owner": "protofire",
             "repo": "solhint",
             "stars": 1125,
@@ -634,7 +634,7 @@
             "open_issues": 40,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "cfg",
               "decoder",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T17:06:45.873Z",
+    "last_updated": "2026-09-22T15:32:43.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
