@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T15:50:23Z",
-            "open_issues": 255,
+            "last_commit": "2026-09-26T11:47:19Z",
+            "open_issues": 254,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10625,
+            "stars": 10626,
             "topics": [
               "alloy",
               "blockchain",
@@ -219,7 +219,7 @@
             "open_issues": 479,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6372,
+            "stars": 6373,
             "topics": [
               "ethereum",
               "solidity",
@@ -278,7 +278,7 @@
             "open_issues": 79,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1032,
+            "stars": 1033,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -403,7 +403,7 @@
             "open_issues": 113,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3181,
+            "stars": 3182,
             "topics": [
               "ethereum",
               "evm",
@@ -534,8 +534,8 @@
             "id": 353710215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T14:13:27Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-26T09:15:44Z",
+            "open_issues": 97,
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
             "stars": 211,
@@ -634,7 +634,7 @@
             "open_issues": 41,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1620,
+            "stars": 1619,
             "topics": [
               "cfg",
               "decoder",
@@ -697,7 +697,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-06T06:34:50Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "naddison36",
             "repo": "sol2uml",
             "stars": 1315,
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:50:54.292Z",
+    "last_updated": "2026-09-26T14:59:59.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
