@@ -10,11 +10,11 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,626 | 🐛 254 | 🌐 Rust | 📅 2026-09-26*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,626 | 🐛 265 | 🌐 Rust | 📅 2026-09-27*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,508 | 🐛 612 | 🌐 TypeScript | 📅 2026-09-25*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,508 | 🐛 613 | 🌐 TypeScript | 📅 2026-09-25*
 
-* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
+* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,721 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,124 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
@@ -24,7 +24,7 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,373 | 🐛 479 | 🌐 Python | 📅 2026-09-23*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,374 | 🐛 479 | 🌐 Python | 📅 2026-09-23*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,182 | 🐛 113 | 🌐 Haskell | 📅 2026-09-23*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,181 | 🐛 113 | 🌐 Haskell | 📅 2026-09-23*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,116 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 487 | 🐛 78 | 🌐 Go | 📅 2026-09-09*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 488 | 🐛 78 | 🌐 Go | 📅 2026-09-09*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 196 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,619 | 🐛 41 | 🌐 Rust | 📅 2026-09-24*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,619 | 🐛 41 | 🌐 Rust | 📅 2026-09-27*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 356 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -74,7 +74,7 @@
 
 ## Misc
 
-* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,315 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-06*
+* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,316 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-06*
 
 * *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 748 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
