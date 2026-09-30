@@ -10,15 +10,15 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,626 | 🐛 254 | 🌐 Rust | 📅 2026-09-29*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,628 | 🐛 262 | 🌐 Rust | 📅 2026-09-30*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,509 | 🐛 612 | 🌐 TypeScript | 📅 2026-09-29*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,510 | 🐛 612 | 🌐 TypeScript | 📅 2026-09-30*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,721 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,124 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 188 | 🌐 Python | 📅 2026-09-25*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 188 | 🌐 Python | 📅 2026-09-25*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,181 | 🐛 109 | 🌐 Haskell | 📅 2026-09-29*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,182 | 🐛 108 | 🌐 Haskell | 📅 2026-09-29*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,117 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -54,11 +54,11 @@
 
 * *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 96 | 🌐 TypeScript | 📅 2026-09-29*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-30*
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,127 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-28*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,127 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-30*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 7 | 🌐 Rust | 📅 2026-08-13*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
