@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,630 | 🐛 252 | 🌐 Rust | 📅 2026-10-01*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,631 | 🐛 251 | 🌐 Rust | 📅 2026-10-02*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,512 | 🐛 613 | 🌐 TypeScript | 📅 2026-10-01*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,511 | 🐛 615 | 🌐 TypeScript | 📅 2026-10-02*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -24,11 +24,11 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,374 | 🐛 480 | 🌐 Python | 📅 2026-09-23*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,373 | 🐛 480 | 🌐 Python | 📅 2026-09-23*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,034 | 🐛 79 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,033 | 🐛 79 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,29 +42,29 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,182 | 🐛 109 | 🌐 Haskell | 📅 2026-09-30*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,184 | 🐛 109 | 🌐 Haskell | 📅 2026-09-30*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,117 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 488 | 🐛 78 | 🌐 Go | 📅 2026-09-09*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 490 | 🐛 78 | 🌐 Go | 📅 2026-09-09*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 196 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
 ## LSPs
 
-* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 958 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
+* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 959 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 211 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-30*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 212 | 🐛 98 | 🌐 TypeScript | 📅 2026-10-02*
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,127 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-01*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,127 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-02*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 7 | 🌐 Rust | 📅 2026-08-13*
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,621 | 🐛 42 | 🌐 Rust | 📅 2026-09-27*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,620 | 🐛 42 | 🌐 Rust | 📅 2026-09-27*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 356 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -74,7 +74,7 @@
 
 ## Misc
 
-* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,316 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-06*
+* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,317 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-06*
 
 * *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 748 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
