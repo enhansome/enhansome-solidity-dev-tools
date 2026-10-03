@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Truffle",
-          "description": null,
+          "description": "ConsenSys-archive/truffle",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "Foundry",
-          "description": null,
+          "description": "foundry-rs/foundry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,8 +46,8 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:39:51Z",
-            "open_issues": 251,
+            "last_commit": "2026-10-03T04:47:13Z",
+            "open_issues": 255,
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10631,
@@ -79,7 +79,7 @@
         {
           "node_type": "item",
           "title": "Hardhat",
-          "description": null,
+          "description": "NomicFoundation/hardhat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:16:19Z",
+            "last_commit": "2026-10-02T20:28:34Z",
             "open_issues": 615,
             "owner": "NomicFoundation",
             "repo": "hardhat",
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "Brownie",
-          "description": null,
+          "description": "eth-brownie/brownie",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +137,7 @@
         {
           "node_type": "item",
           "title": "Dapptools",
-          "description": null,
+          "description": "dapphub/dapptools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -165,7 +165,7 @@
         {
           "node_type": "item",
           "title": "Ape",
-          "description": null,
+          "description": "ApeWorX/ape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,7 +206,7 @@
         {
           "node_type": "item",
           "title": "Slither",
-          "description": null,
+          "description": "crytic/slither",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -219,7 +219,7 @@
             "open_issues": 480,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6373,
+            "stars": 6374,
             "topics": [
               "ethereum",
               "solidity",
@@ -232,7 +232,7 @@
         {
           "node_type": "item",
           "title": "Manticore",
-          "description": null,
+          "description": "trailofbits/manticore",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -265,7 +265,7 @@
         {
           "node_type": "item",
           "title": "Halmos",
-          "description": null,
+          "description": "a16z/halmos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "Pyrometer",
-          "description": null,
+          "description": "nascentxyz/pyrometer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -307,7 +307,7 @@
         {
           "node_type": "item",
           "title": "Solstat",
-          "description": null,
+          "description": "0xKitsune/solstat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "Slitherin",
-          "description": null,
+          "description": "pessimistic-io/slitherin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -355,7 +355,7 @@
         {
           "node_type": "item",
           "title": "C4dit",
-          "description": null,
+          "description": "byterocket/c4udit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -390,7 +390,7 @@
         {
           "node_type": "item",
           "title": "Echidna",
-          "description": null,
+          "description": "crytic/echidna",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,7 +403,7 @@
             "open_issues": 109,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3184,
+            "stars": 3185,
             "topics": [
               "ethereum",
               "evm",
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "Ityfuzz",
-          "description": null,
+          "description": "fuzzland/ityfuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -451,7 +451,7 @@
         {
           "node_type": "item",
           "title": "Medusa",
-          "description": null,
+          "description": "crytic/medusa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -472,7 +472,7 @@
         {
           "node_type": "item",
           "title": "FuzzyDefi",
-          "description": null,
+          "description": "0xNazgul/fuzzydefi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -499,7 +499,7 @@
         {
           "node_type": "item",
           "title": "Juan Blanco",
-          "description": null,
+          "description": "juanfranblanco/vscode-solidity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -525,7 +525,7 @@
         {
           "node_type": "item",
           "title": "Nomic Foundation",
-          "description": null,
+          "description": "NomicFoundation/hardhat-vscode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -557,7 +557,7 @@
         {
           "node_type": "item",
           "title": "Solhint",
-          "description": null,
+          "description": "protofire/solhint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -589,7 +589,7 @@
         {
           "node_type": "item",
           "title": "Scopelint",
-          "description": null,
+          "description": "ScopeLift/scopelint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,7 +621,7 @@
         {
           "node_type": "item",
           "title": "Heimdall",
-          "description": null,
+          "description": "Jon-Becker/heimdall-rs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -655,7 +655,7 @@
         {
           "node_type": "item",
           "title": "ETK",
-          "description": null,
+          "description": "quilt/etk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,7 +687,7 @@
         {
           "node_type": "item",
           "title": "Solidity 2 UML",
-          "description": null,
+          "description": "naddison36/sol2uml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -700,7 +700,7 @@
             "open_issues": 17,
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1317,
+            "stars": 1318,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -708,7 +708,7 @@
         {
           "node_type": "item",
           "title": "Arbiter",
-          "description": null,
+          "description": "harnesslabs/arbiter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "Etheno",
-          "description": null,
+          "description": "crytic/etheno",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -760,7 +760,7 @@
         {
           "node_type": "item",
           "title": "Vulcan",
-          "description": null,
+          "description": "nomoixyz/vulcan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -790,7 +790,7 @@
         {
           "node_type": "item",
           "title": "Sothis",
-          "description": null,
+          "description": "rainshowerLabs/sothis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -818,7 +818,7 @@
         {
           "node_type": "item",
           "title": "Solgrep",
-          "description": null,
+          "description": "tintinweb/solgrep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +843,7 @@
         {
           "node_type": "item",
           "title": "diffusc",
-          "description": null,
+          "description": "crytic/diffusc",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:41:24.327Z",
+    "last_updated": "2026-10-03T05:08:40.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
