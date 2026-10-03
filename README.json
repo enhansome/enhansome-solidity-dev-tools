@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:47:13Z",
-            "open_issues": 255,
+            "last_commit": "2026-10-03T15:08:40Z",
+            "open_issues": 274,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10631,
+            "stars": 10634,
             "topics": [
               "alloy",
               "blockchain",
@@ -92,7 +92,7 @@
             "open_issues": 615,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8511,
+            "stars": 8510,
             "topics": [
               "blockchain",
               "dapps",
@@ -275,7 +275,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2025-08-06T19:05:39Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "a16z",
             "repo": "halmos",
             "stars": 1033,
@@ -668,7 +668,7 @@
             "open_issues": 40,
             "owner": "quilt",
             "repo": "etk",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "assembler",
               "cryptocurrency",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:40.172Z",
+    "last_updated": "2026-10-03T15:09:28.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",

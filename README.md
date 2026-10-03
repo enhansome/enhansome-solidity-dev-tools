@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,631 | 🐛 255 | 🌐 Rust | 📅 2026-10-03*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,634 | 🐛 274 | 🌐 Rust | 📅 2026-10-03*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,511 | 🐛 615 | 🌐 TypeScript | 📅 2026-10-02*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,510 | 🐛 615 | 🌐 TypeScript | 📅 2026-10-02*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,722 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -28,7 +28,7 @@
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,033 | 🐛 79 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,033 | 🐛 80 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -66,7 +66,7 @@
 
 * *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,620 | 🐛 42 | 🌐 Rust | 📅 2026-09-27*
 
-* *[ETK](https://github.com/quilt/etk/) ⭐ 356 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
+* *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
 * *[EtherVM](https://ethervm.io/decompile)*
 
