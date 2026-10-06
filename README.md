@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,640 | 🐛 265 | 🌐 Rust | 📅 2026-10-06*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,639 | 🐛 255 | 🌐 Rust | 📅 2026-10-06*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,509 | 🐛 624 | 🌐 TypeScript | 📅 2026-10-06*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,509 | 🐛 622 | 🌐 TypeScript | 📅 2026-10-06*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,721 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -64,9 +64,9 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,617 | 🐛 42 | 🌐 Rust | 📅 2026-10-04*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,617 | 🐛 41 | 🌐 Rust | 📅 2026-10-06*
 
-* *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
+* *[ETK](https://github.com/quilt/etk/) ⭐ 356 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
 * *[EtherVM](https://ethervm.io/decompile)*
 
