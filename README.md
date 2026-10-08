@@ -10,21 +10,21 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,643 | 🐛 255 | 🌐 Rust | 📅 2026-10-07*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,645 | 🐛 249 | 🌐 Rust | 📅 2026-10-08*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,507 | 🐛 615 | 🌐 TypeScript | 📅 2026-10-07*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,507 | 🐛 592 | 🌐 TypeScript | 📅 2026-10-08*
 
-* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,721 | 🐛 398 | 🌐 C | 📅 2026-08-05*
+* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,720 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 191 | 🌐 Python | 📅 2026-09-25*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,053 | 🐛 192 | 🌐 Python | 📅 2026-09-25*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,374 | 🐛 480 | 🌐 Python | 📅 2026-10-06*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,373 | 🐛 481 | 🌐 Python | 📅 2026-10-06*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,9 +42,9 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,185 | 🐛 109 | 🌐 Haskell | 📅 2026-10-06*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,186 | 🐛 106 | 🌐 Haskell | 📅 2026-10-08*
 
-* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,119 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
+* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,120 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
 * *[Medusa](https://github.com/crytic/medusa) ⭐ 490 | 🐛 78 | 🌐 Go | 📅 2026-09-09*
 
@@ -58,13 +58,13 @@
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,127 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-04*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,127 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-08*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 7 | 🌐 Rust | 📅 2026-08-13*
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,618 | 🐛 41 | 🌐 Rust | 📅 2026-10-06*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,619 | 🐛 41 | 🌐 Rust | 📅 2026-10-06*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
