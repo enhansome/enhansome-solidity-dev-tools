@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13905,
+            "stars": 13904,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,8 +46,8 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T07:45:51Z",
-            "open_issues": 255,
+            "last_commit": "2026-10-11T15:24:28Z",
+            "open_issues": 247,
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10651,
@@ -89,10 +89,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T13:24:49Z",
-            "open_issues": 560,
+            "open_issues": 561,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8511,
+            "stars": 8510,
             "topics": [
               "blockchain",
               "dapps",
@@ -219,7 +219,7 @@
             "open_issues": 482,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6374,
+            "stars": 6373,
             "topics": [
               "ethereum",
               "solidity",
@@ -245,7 +245,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3855,
+            "stars": 3854,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -538,7 +538,7 @@
             "open_issues": 99,
             "owner": "NomicFoundation",
             "repo": "hardhat-vscode",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "ethereum",
               "hardhat",
@@ -630,11 +630,11 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:24:15Z",
+            "last_commit": "2026-10-11T00:23:02Z",
             "open_issues": 41,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1620,
+            "stars": 1621,
             "topics": [
               "cfg",
               "decoder",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:15:54.104Z",
+    "last_updated": "2026-10-11T16:40:29.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
