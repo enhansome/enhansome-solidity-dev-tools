@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13904,
+            "stars": 13905,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,7 +46,7 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T20:06:21Z",
+            "last_commit": "2026-10-13T18:02:09Z",
             "open_issues": 248,
             "owner": "foundry-rs",
             "repo": "foundry",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T16:54:59Z",
-            "open_issues": 555,
+            "last_commit": "2026-10-13T17:33:24Z",
+            "open_issues": 535,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8511,
+            "stars": 8514,
             "topics": [
               "blockchain",
               "dapps",
@@ -150,7 +150,7 @@
             "open_issues": 171,
             "owner": "dapphub",
             "repo": "dapptools",
-            "stars": 2124,
+            "stars": 2123,
             "topics": [
               "dapp",
               "ethereum",
@@ -174,7 +174,7 @@
             "id": 326840499,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T01:18:05Z",
+            "last_commit": "2026-10-13T18:18:45Z",
             "open_issues": 192,
             "owner": "ApeWorX",
             "repo": "ape",
@@ -216,10 +216,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-06T01:32:51Z",
-            "open_issues": 484,
+            "open_issues": 485,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6375,
+            "stars": 6376,
             "topics": [
               "ethereum",
               "solidity",
@@ -245,7 +245,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3855,
+            "stars": 3856,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -278,7 +278,7 @@
             "open_issues": 80,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1033,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -403,7 +403,7 @@
             "open_issues": 105,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3186,
+            "stars": 3185,
             "topics": [
               "ethereum",
               "evm",
@@ -432,7 +432,7 @@
             "open_issues": 63,
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1119,
+            "stars": 1120,
             "topics": [
               "aptos",
               "blockchain",
@@ -634,7 +634,7 @@
             "open_issues": 41,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1622,
+            "stars": 1624,
             "topics": [
               "cfg",
               "decoder",
@@ -696,7 +696,7 @@
             "id": 168141555,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-06T06:34:50Z",
+            "last_commit": "2026-10-13T02:12:29Z",
             "open_issues": 17,
             "owner": "naddison36",
             "repo": "sol2uml",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:20:00.358Z",
+    "last_updated": "2026-10-13T18:22:38.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
