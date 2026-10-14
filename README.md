@@ -10,21 +10,21 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,662 | 🐛 248 | 🌐 Rust | 📅 2026-10-13*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,666 | 🐛 252 | 🌐 Rust | 📅 2026-10-14*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,514 | 🐛 535 | 🌐 TypeScript | 📅 2026-10-13*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,514 | 🐛 537 | 🌐 TypeScript | 📅 2026-10-14*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,719 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
-* *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
+* *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,121 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,052 | 🐛 192 | 🌐 Python | 📅 2026-10-13*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,052 | 🐛 190 | 🌐 Python | 📅 2026-10-13*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,376 | 🐛 485 | 🌐 Python | 📅 2026-10-06*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,379 | 🐛 485 | 🌐 Python | 📅 2026-10-06*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -46,7 +46,7 @@
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,120 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 491 | 🐛 80 | 🌐 Go | 📅 2026-09-09*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 491 | 🐛 79 | 🌐 Go | 📅 2026-09-09*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 196 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,624 | 🐛 41 | 🌐 Rust | 📅 2026-10-11*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,625 | 🐛 41 | 🌐 Rust | 📅 2026-10-11*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
