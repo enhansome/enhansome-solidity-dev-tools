@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,667 | 🐛 258 | 🌐 Rust | 📅 2026-10-15*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,672 | 🐛 259 | 🌐 Rust | 📅 2026-10-16*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,513 | 🐛 534 | 🌐 TypeScript | 📅 2026-10-15*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,513 | 🐛 526 | 🌐 TypeScript | 📅 2026-10-16*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,719 | 🐛 398 | 🌐 C | 📅 2026-08-05*
 
@@ -24,11 +24,11 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,381 | 🐛 485 | 🌐 Python | 📅 2026-10-14*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,383 | 🐛 487 | 🌐 Python | 📅 2026-10-14*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,034 | 🐛 85 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,035 | 🐛 85 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 796 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,185 | 🐛 105 | 🌐 Haskell | 📅 2026-10-15*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,186 | 🐛 105 | 🌐 Haskell | 📅 2026-10-15*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,120 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 492 | 🐛 79 | 🌐 Go | 📅 2026-09-09*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 493 | 🐛 79 | 🌐 Go | 📅 2026-09-09*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 196 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
