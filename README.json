@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13905,
+            "stars": 13904,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T14:37:30Z",
-            "open_issues": 251,
+            "last_commit": "2026-10-19T17:28:24Z",
+            "open_issues": 255,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10676,
+            "stars": 10681,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T07:29:44Z",
-            "open_issues": 531,
+            "last_commit": "2026-10-19T17:03:13Z",
+            "open_issues": 534,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8515,
+            "stars": 8518,
             "topics": [
               "blockchain",
               "dapps",
@@ -216,7 +216,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-14T22:56:34Z",
-            "open_issues": 487,
+            "open_issues": 488,
             "owner": "crytic",
             "repo": "slither",
             "stars": 6383,
@@ -485,7 +485,7 @@
             "open_issues": 0,
             "owner": "0xNazgul",
             "repo": "fuzzydefi",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -567,7 +567,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T14:08:40Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "protofire",
             "repo": "solhint",
             "stars": 1126,
@@ -634,7 +634,7 @@
             "open_issues": 41,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1627,
+            "stars": 1629,
             "topics": [
               "cfg",
               "decoder",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:39:21.874Z",
+    "last_updated": "2026-10-19T17:34:09.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
