@@ -10,25 +10,25 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,699 | 🐛 241 | 🌐 Rust | 📅 2026-10-26*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,737 | 🐛 240 | 🌐 Rust | 📅 2026-10-27*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,515 | 🐛 536 | 🌐 TypeScript | 📅 2026-10-26*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,512 | 🐛 538 | 🌐 TypeScript | 📅 2026-10-27*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,718 | 🐛 397 | 🌐 C | 📅 2026-10-26*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 192 | 🌐 Python | 📅 2026-10-25*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 193 | 🌐 Python | 📅 2026-10-25*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,389 | 🐛 499 | 🌐 Python | 📅 2026-10-23*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,392 | 🐛 501 | 🌐 Python | 📅 2026-10-23*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,037 | 🐛 87 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,038 | 🐛 87 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 796 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -52,7 +52,7 @@
 
 ## LSPs
 
-* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 960 | 🐛 152 | 🌐 TypeScript | 📅 2026-05-28*
+* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 959 | 🐛 152 | 🌐 TypeScript | 📅 2026-05-28*
 
 * *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 213 | 🐛 101 | 🌐 TypeScript | 📅 2026-10-02*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,634 | 🐛 43 | 🌐 Rust | 📅 2026-10-25*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,635 | 🐛 43 | 🌐 Rust | 📅 2026-10-25*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -74,7 +74,7 @@
 
 ## Misc
 
-* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,319 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
+* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,320 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
 
 * *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 746 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
