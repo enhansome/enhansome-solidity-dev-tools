@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,739 | 🐛 242 | 🌐 Rust | 📅 2026-10-28*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,740 | 🐛 246 | 🌐 Rust | 📅 2026-10-29*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,512 | 🐛 540 | 🌐 TypeScript | 📅 2026-10-28*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,514 | 🐛 543 | 🌐 TypeScript | 📅 2026-10-29*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,718 | 🐛 397 | 🌐 C | 📅 2026-10-26*
 
@@ -24,11 +24,11 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,394 | 🐛 501 | 🌐 Python | 📅 2026-10-23*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,394 | 🐛 501 | 🌐 Python | 📅 2026-10-28*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,038 | 🐛 88 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,038 | 🐛 91 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 796 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,187 | 🐛 107 | 🌐 Haskell | 📅 2026-10-24*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,188 | 🐛 107 | 🌐 Haskell | 📅 2026-10-28*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,119 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 496 | 🐛 76 | 🌐 Go | 📅 2026-10-28*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 495 | 🐛 77 | 🌐 Go | 📅 2026-10-28*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -74,7 +74,7 @@
 
 ## Misc
 
-* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,319 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
+* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,320 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
 
 * *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 746 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
