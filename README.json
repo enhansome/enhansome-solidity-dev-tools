@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T17:25:19Z",
-            "open_issues": 246,
+            "last_commit": "2026-10-30T16:50:28Z",
+            "open_issues": 259,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10740,
+            "stars": 10736,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T17:08:47Z",
-            "open_issues": 543,
+            "last_commit": "2026-10-30T14:47:49Z",
+            "open_issues": 541,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8514,
+            "stars": 8517,
             "topics": [
               "blockchain",
               "dapps",
@@ -174,7 +174,7 @@
             "id": 326840499,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T03:12:53Z",
+            "last_commit": "2026-10-30T15:13:47Z",
             "open_issues": 190,
             "owner": "ApeWorX",
             "repo": "ape",
@@ -215,11 +215,11 @@
             "id": 147583941,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T22:55:31Z",
+            "last_commit": "2026-10-29T22:27:25Z",
             "open_issues": 501,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6394,
+            "stars": 6397,
             "topics": [
               "ethereum",
               "solidity",
@@ -245,7 +245,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3856,
+            "stars": 3855,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -278,7 +278,7 @@
             "open_issues": 91,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1038,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -461,10 +461,10 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-28T23:54:46Z",
-            "open_issues": 77,
+            "open_issues": 81,
             "owner": "crytic",
             "repo": "medusa",
-            "stars": 495,
+            "stars": 496,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -566,8 +566,8 @@
             "id": 107120334,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T14:08:40Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-30T05:26:23Z",
+            "open_issues": 10,
             "owner": "protofire",
             "repo": "solhint",
             "stars": 1127,
@@ -631,10 +631,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-25T00:19:25Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1635,
+            "stars": 1637,
             "topics": [
               "cfg",
               "decoder",
@@ -700,7 +700,7 @@
             "open_issues": 17,
             "owner": "naddison36",
             "repo": "sol2uml",
-            "stars": 1320,
+            "stars": 1321,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:27:48.331Z",
+    "last_updated": "2026-10-30T17:02:45.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
