@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,736 | 🐛 259 | 🌐 Rust | 📅 2026-10-30*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,741 | 🐛 276 | 🌐 Rust | 📅 2026-10-31*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,517 | 🐛 541 | 🌐 TypeScript | 📅 2026-10-30*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,519 | 🐛 543 | 🌐 TypeScript | 📅 2026-10-31*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,718 | 🐛 397 | 🌐 C | 📅 2026-10-26*
 
@@ -24,11 +24,11 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,397 | 🐛 501 | 🌐 Python | 📅 2026-10-29*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,398 | 🐛 501 | 🌐 Python | 📅 2026-10-29*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,040 | 🐛 91 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,041 | 🐛 90 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 796 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,188 | 🐛 107 | 🌐 Haskell | 📅 2026-10-28*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,189 | 🐛 107 | 🌐 Haskell | 📅 2026-10-28*
 
-* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,119 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
+* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,121 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 496 | 🐛 81 | 🌐 Go | 📅 2026-10-28*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 497 | 🐛 81 | 🌐 Go | 📅 2026-10-28*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -58,7 +58,7 @@
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,127 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-30*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,128 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-30*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 7 | 🌐 Rust | 📅 2026-08-13*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
