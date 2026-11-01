@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,741 | 🐛 276 | 🌐 Rust | 📅 2026-10-31*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,744 | 🐛 295 | 🌐 Rust | 📅 2026-11-01*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,519 | 🐛 543 | 🌐 TypeScript | 📅 2026-10-31*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 555 | 🌐 TypeScript | 📅 2026-10-31*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,718 | 🐛 397 | 🌐 C | 📅 2026-10-26*
 
@@ -24,7 +24,7 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,398 | 🐛 501 | 🌐 Python | 📅 2026-10-29*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,401 | 🐛 501 | 🌐 Python | 📅 2026-10-29*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,189 | 🐛 107 | 🌐 Haskell | 📅 2026-10-28*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,190 | 🐛 107 | 🌐 Haskell | 📅 2026-10-28*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,121 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,637 | 🐛 44 | 🌐 Rust | 📅 2026-10-25*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,637 | 🐛 44 | 🌐 Rust | 📅 2026-11-01*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -74,7 +74,7 @@
 
 ## Misc
 
-* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,321 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
+* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,320 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
 
 * *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 746 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
