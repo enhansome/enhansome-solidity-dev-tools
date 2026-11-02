@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13903,
+            "stars": 13902,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T16:55:33Z",
-            "open_issues": 295,
+            "last_commit": "2026-11-02T20:27:48Z",
+            "open_issues": 289,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10744,
+            "stars": 10749,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T01:57:01Z",
-            "open_issues": 555,
+            "last_commit": "2026-11-02T16:53:58Z",
+            "open_issues": 559,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8522,
+            "stars": 8523,
             "topics": [
               "blockchain",
               "dapps",
@@ -219,7 +219,7 @@
             "open_issues": 501,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6401,
+            "stars": 6400,
             "topics": [
               "ethereum",
               "solidity",
@@ -245,7 +245,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3856,
+            "stars": 3855,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -278,7 +278,7 @@
             "open_issues": 90,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1041,
+            "stars": 1042,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -399,11 +399,11 @@
             "id": 101585932,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T21:34:24Z",
+            "last_commit": "2026-11-02T19:44:19Z",
             "open_issues": 107,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3190,
+            "stars": 3189,
             "topics": [
               "ethereum",
               "evm",
@@ -461,7 +461,7 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-28T23:54:46Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "crytic",
             "repo": "medusa",
             "stars": 497,
@@ -721,7 +721,7 @@
             "open_issues": 10,
             "owner": "harnesslabs",
             "repo": "arbiter",
-            "stars": 746,
+            "stars": 747,
             "topics": [
               "rust",
               "simulation-framework"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:10:04.738Z",
+    "last_updated": "2026-11-02T20:48:51.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",

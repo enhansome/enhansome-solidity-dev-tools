@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,744 | 🐛 295 | 🌐 Rust | 📅 2026-11-01*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,749 | 🐛 289 | 🌐 Rust | 📅 2026-11-02*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 555 | 🌐 TypeScript | 📅 2026-10-31*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,523 | 🐛 559 | 🌐 TypeScript | 📅 2026-11-02*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,718 | 🐛 397 | 🌐 C | 📅 2026-10-26*
 
@@ -24,11 +24,11 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,401 | 🐛 501 | 🌐 Python | 📅 2026-10-29*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,400 | 🐛 501 | 🌐 Python | 📅 2026-10-29*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,041 | 🐛 90 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,042 | 🐛 90 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 796 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,190 | 🐛 107 | 🌐 Haskell | 📅 2026-10-28*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,189 | 🐛 107 | 🌐 Haskell | 📅 2026-11-02*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,121 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 497 | 🐛 81 | 🌐 Go | 📅 2026-10-28*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 497 | 🐛 82 | 🌐 Go | 📅 2026-10-28*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -76,7 +76,7 @@
 
 * *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,320 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
 
-* *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 746 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
+* *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 747 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
 * *[Etheno](https://github.com/crytic/etheno) ⚠️ Archived*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
