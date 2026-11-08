@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13899,
+            "stars": 13900,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T08:00:37Z",
-            "open_issues": 269,
+            "last_commit": "2026-11-08T14:13:37Z",
+            "open_issues": 271,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10767,
+            "stars": 10769,
             "topics": [
               "alloy",
               "blockchain",
@@ -92,7 +92,7 @@
             "open_issues": 547,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8521,
+            "stars": 8520,
             "topics": [
               "blockchain",
               "dapps",
@@ -216,7 +216,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-04T22:55:42Z",
-            "open_issues": 515,
+            "open_issues": 518,
             "owner": "crytic",
             "repo": "slither",
             "stars": 6411,
@@ -299,7 +299,7 @@
             "open_issues": 15,
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 796,
+            "stars": 797,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -403,7 +403,7 @@
             "open_issues": 104,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3191,
+            "stars": 3192,
             "topics": [
               "ethereum",
               "evm",
@@ -432,7 +432,7 @@
             "open_issues": 63,
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1120,
+            "stars": 1121,
             "topics": [
               "aptos",
               "blockchain",
@@ -512,7 +512,7 @@
             "open_issues": 152,
             "owner": "juanfranblanco",
             "repo": "vscode-solidity",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "ethereum",
               "solidity",
@@ -567,7 +567,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-04T20:37:01Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "protofire",
             "repo": "solhint",
             "stars": 1128,
@@ -630,11 +630,11 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-01T00:14:22Z",
+            "last_commit": "2026-11-08T00:12:35Z",
             "open_issues": 44,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1639,
+            "stars": 1640,
             "topics": [
               "cfg",
               "decoder",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:53:53.634Z",
+    "last_updated": "2026-11-08T17:07:00.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",

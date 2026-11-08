@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,767 | 🐛 269 | 🌐 Rust | 📅 2026-11-07*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,769 | 🐛 271 | 🌐 Rust | 📅 2026-11-08*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,521 | 🐛 547 | 🌐 TypeScript | 📅 2026-11-06*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,520 | 🐛 547 | 🌐 TypeScript | 📅 2026-11-06*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,719 | 🐛 399 | 🌐 C | 📅 2026-10-26*
 
@@ -24,13 +24,13 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,411 | 🐛 515 | 🌐 Python | 📅 2026-11-04*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,411 | 🐛 518 | 🌐 Python | 📅 2026-11-04*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
 * *[Halmos](https://github.com/a16z/halmos) ⭐ 1,043 | 🐛 93 | 🌐 Python | 📅 2025-08-06*
 
-* *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 796 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
+* *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
 * *[Solstat](https://github.com/0xKitsune/solstat) ⭐ 428 | 🐛 32 | 🌐 Rust | 📅 2023-11-17*
 
@@ -42,9 +42,9 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,191 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,192 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06*
 
-* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,120 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
+* *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,121 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
 * *[Medusa](https://github.com/crytic/medusa) ⭐ 498 | 🐛 82 | 🌐 Go | 📅 2026-10-28*
 
@@ -52,19 +52,19 @@
 
 ## LSPs
 
-* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 959 | 🐛 152 | 🌐 TypeScript | 📅 2026-05-28*
+* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 960 | 🐛 152 | 🌐 TypeScript | 📅 2026-05-28*
 
 * *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 213 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-02*
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,128 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-04*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,128 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-04*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 9 | 🌐 Rust | 📅 2026-08-13*
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,639 | 🐛 44 | 🌐 Rust | 📅 2026-11-01*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,640 | 🐛 44 | 🌐 Rust | 📅 2026-11-08*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
