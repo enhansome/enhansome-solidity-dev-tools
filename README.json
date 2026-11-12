@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T18:38:51Z",
-            "open_issues": 272,
+            "last_commit": "2026-11-12T18:57:33Z",
+            "open_issues": 266,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10772,
+            "stars": 10771,
             "topics": [
               "alloy",
               "blockchain",
@@ -88,11 +88,11 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T16:58:26Z",
-            "open_issues": 540,
+            "last_commit": "2026-11-12T16:28:23Z",
+            "open_issues": 543,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8521,
+            "stars": 8522,
             "topics": [
               "blockchain",
               "dapps",
@@ -124,7 +124,7 @@
             "open_issues": 400,
             "owner": "eth-brownie",
             "repo": "brownie",
-            "stars": 2718,
+            "stars": 2717,
             "topics": [
               "ethereum",
               "solidity",
@@ -174,8 +174,8 @@
             "id": 326840499,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T17:51:21Z",
-            "open_issues": 193,
+            "last_commit": "2026-11-12T15:23:20Z",
+            "open_issues": 195,
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1054,
@@ -219,7 +219,7 @@
             "open_issues": 521,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6417,
+            "stars": 6416,
             "topics": [
               "ethereum",
               "solidity",
@@ -432,7 +432,7 @@
             "open_issues": 63,
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "aptos",
               "blockchain",
@@ -634,7 +634,7 @@
             "open_issues": 45,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1641,
+            "stars": 1642,
             "topics": [
               "cfg",
               "decoder",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:44:35.993Z",
+    "last_updated": "2026-11-12T18:59:13.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
