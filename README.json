@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13899,
+            "stars": 13898,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,8 +46,8 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T18:57:33Z",
-            "open_issues": 266,
+            "last_commit": "2026-11-13T18:24:48Z",
+            "open_issues": 273,
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10771,
@@ -88,8 +88,8 @@
             "id": 129558668,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T16:28:23Z",
-            "open_issues": 543,
+            "last_commit": "2026-11-13T17:22:23Z",
+            "open_issues": 544,
             "owner": "NomicFoundation",
             "repo": "hardhat",
             "stars": 8522,
@@ -174,7 +174,7 @@
             "id": 326840499,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T15:23:20Z",
+            "last_commit": "2026-11-13T15:06:30Z",
             "open_issues": 195,
             "owner": "ApeWorX",
             "repo": "ape",
@@ -219,7 +219,7 @@
             "open_issues": 521,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6416,
+            "stars": 6418,
             "topics": [
               "ethereum",
               "solidity",
@@ -403,7 +403,7 @@
             "open_issues": 104,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3195,
+            "stars": 3197,
             "topics": [
               "ethereum",
               "evm",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:59:13.953Z",
+    "last_updated": "2026-11-13T18:35:28.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",

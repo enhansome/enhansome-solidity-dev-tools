@@ -10,21 +10,21 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,771 | 🐛 266 | 🌐 Rust | 📅 2026-11-12*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,771 | 🐛 273 | 🌐 Rust | 📅 2026-11-13*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 543 | 🌐 TypeScript | 📅 2026-11-12*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 544 | 🌐 TypeScript | 📅 2026-11-13*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,717 | 🐛 400 | 🌐 C | 📅 2026-10-26*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 195 | 🌐 Python | 📅 2026-11-12*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 195 | 🌐 Python | 📅 2026-11-13*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,416 | 🐛 521 | 🌐 Python | 📅 2026-11-04*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,418 | 🐛 521 | 🌐 Python | 📅 2026-11-04*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,195 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,197 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,122 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
