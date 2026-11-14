@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,771 | 🐛 273 | 🌐 Rust | 📅 2026-11-13*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,769 | 🐛 271 | 🌐 Rust | 📅 2026-11-14*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 544 | 🌐 TypeScript | 📅 2026-11-13*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,523 | 🐛 545 | 🌐 TypeScript | 📅 2026-11-13*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,717 | 🐛 400 | 🌐 C | 📅 2026-10-26*
 
@@ -58,13 +58,13 @@
 
 ## Linting
 
-* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,129 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-10*
+* *[Solhint](https://github.com/protofire/solhint) ⭐ 1,130 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-10*
 
 * *[Scopelint](https://github.com/ScopeLift/scopelint) ⭐ 83 | 🐛 9 | 🌐 Rust | 📅 2026-08-13*
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,642 | 🐛 45 | 🌐 Rust | 📅 2026-11-08*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,643 | 🐛 45 | 🌐 Rust | 📅 2026-11-08*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
