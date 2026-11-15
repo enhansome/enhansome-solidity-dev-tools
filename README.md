@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,769 | 🐛 271 | 🌐 Rust | 📅 2026-11-14*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,770 | 🐛 284 | 🌐 Rust | 📅 2026-11-15*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,523 | 🐛 545 | 🌐 TypeScript | 📅 2026-11-13*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,523 | 🐛 546 | 🌐 TypeScript | 📅 2026-11-13*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,717 | 🐛 400 | 🌐 C | 📅 2026-10-26*
 
@@ -24,13 +24,13 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,418 | 🐛 521 | 🌐 Python | 📅 2026-11-04*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,420 | 🐛 522 | 🌐 Python | 📅 2026-11-04*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
 * *[Halmos](https://github.com/a16z/halmos) ⭐ 1,043 | 🐛 93 | 🌐 Python | 📅 2025-08-06*
 
-* *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
+* *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 798 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
 * *[Solstat](https://github.com/0xKitsune/solstat) ⭐ 428 | 🐛 32 | 🌐 Rust | 📅 2023-11-17*
 
@@ -46,7 +46,7 @@
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,122 | 🐛 63 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 501 | 🐛 83 | 🌐 Go | 📅 2026-10-28*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 502 | 🐛 83 | 🌐 Go | 📅 2026-10-28*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -54,7 +54,7 @@
 
 * *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 960 | 🐛 153 | 🌐 TypeScript | 📅 2026-05-28*
 
-* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 213 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-02*
+* *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 214 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-02*
 
 ## Linting
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,643 | 🐛 45 | 🌐 Rust | 📅 2026-11-08*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,644 | 🐛 45 | 🌐 Rust | 📅 2026-11-15*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
