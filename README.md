@@ -10,15 +10,15 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,773 | 🐛 294 | 🌐 Rust | 📅 2026-11-16*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,777 | 🐛 284 | 🌐 Rust | 📅 2026-11-17*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 547 | 🌐 TypeScript | 📅 2026-11-16*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 545 | 🌐 TypeScript | 📅 2026-11-17*
 
-* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,717 | 🐛 400 | 🌐 C | 📅 2026-10-26*
+* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,716 | 🐛 400 | 🌐 C | 📅 2026-10-26*
 
-* *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
+* *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 195 | 🌐 Python | 📅 2026-11-13*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 204 | 🌐 Python | 📅 2026-11-17*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
@@ -28,7 +28,7 @@
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,043 | 🐛 93 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,044 | 🐛 93 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 798 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -42,11 +42,11 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,198 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,199 | 🐛 105 | 🌐 Haskell | 📅 2026-11-17*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,122 | 🐛 64 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 502 | 🐛 83 | 🌐 Go | 📅 2026-10-28*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 503 | 🐛 83 | 🌐 Go | 📅 2026-10-28*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
