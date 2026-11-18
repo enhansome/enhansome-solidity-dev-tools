@@ -10,21 +10,21 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,777 | 🐛 284 | 🌐 Rust | 📅 2026-11-17*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,779 | 🐛 279 | 🌐 Rust | 📅 2026-11-18*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 545 | 🌐 TypeScript | 📅 2026-11-17*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 548 | 🌐 TypeScript | 📅 2026-11-18*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,716 | 🐛 400 | 🌐 C | 📅 2026-10-26*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 204 | 🌐 Python | 📅 2026-11-17*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,054 | 🐛 205 | 🌐 Python | 📅 2026-11-17*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,419 | 🐛 522 | 🌐 Python | 📅 2026-11-04*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,422 | 🐛 522 | 🌐 Python | 📅 2026-11-04*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -42,7 +42,7 @@
 
 ## Fuzzing
 
-* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,199 | 🐛 105 | 🌐 Haskell | 📅 2026-11-17*
+* *[Echidna](https://github.com/crytic/echidna) ⭐ 3,200 | 🐛 105 | 🌐 Haskell | 📅 2026-11-17*
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,122 | 🐛 64 | 🌐 Rust | 📅 2025-12-10*
 
@@ -52,7 +52,7 @@
 
 ## LSPs
 
-* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 961 | 🐛 153 | 🌐 TypeScript | 📅 2026-05-28*
+* *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity) ⭐ 961 | 🐛 154 | 🌐 TypeScript | 📅 2026-05-28*
 
 * *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode) ⭐ 214 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-02*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,644 | 🐛 46 | 🌐 Rust | 📅 2026-11-15*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,647 | 🐛 46 | 🌐 Rust | 📅 2026-11-15*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
