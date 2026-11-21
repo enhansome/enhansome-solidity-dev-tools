@@ -10,9 +10,9 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,779 | 🐛 296 | 🌐 Rust | 📅 2026-11-20*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,769 | 🐛 306 | 🌐 Rust | 📅 2026-11-21*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,522 | 🐛 551 | 🌐 TypeScript | 📅 2026-11-20*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,519 | 🐛 551 | 🌐 TypeScript | 📅 2026-11-20*
 
 * *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,715 | 🐛 400 | 🌐 C | 📅 2026-10-26*
 
@@ -24,7 +24,7 @@
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,422 | 🐛 522 | 🌐 Python | 📅 2026-11-18*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,421 | 🐛 522 | 🌐 Python | 📅 2026-11-18*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
@@ -64,7 +64,7 @@
 
 ## Decompilers and Disassemblers
 
-* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,647 | 🐛 46 | 🌐 Rust | 📅 2026-11-15*
+* *[Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,648 | 🐛 46 | 🌐 Rust | 📅 2026-11-15*
 
 * *[ETK](https://github.com/quilt/etk/) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
