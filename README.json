@@ -46,11 +46,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T07:57:26Z",
-            "open_issues": 306,
+            "last_commit": "2026-11-22T14:13:41Z",
+            "open_issues": 312,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10769,
+            "stars": 10772,
             "topics": [
               "alloy",
               "blockchain",
@@ -121,7 +121,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-26T03:52:52Z",
-            "open_issues": 400,
+            "open_issues": 401,
             "owner": "eth-brownie",
             "repo": "brownie",
             "stars": 2715,
@@ -178,7 +178,7 @@
             "open_issues": 210,
             "owner": "ApeWorX",
             "repo": "ape",
-            "stars": 1055,
+            "stars": 1057,
             "topics": [
               "ape",
               "apeworx",
@@ -245,7 +245,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3856,
+            "stars": 3857,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -275,7 +275,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2025-08-06T19:05:39Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "a16z",
             "repo": "halmos",
             "stars": 1045,
@@ -403,7 +403,7 @@
             "open_issues": 106,
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3200,
+            "stars": 3201,
             "topics": [
               "ethereum",
               "evm",
@@ -630,7 +630,7 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-15T00:12:14Z",
+            "last_commit": "2026-11-22T00:12:14Z",
             "open_issues": 46,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:03:32.862Z",
+    "last_updated": "2026-11-22T18:34:00.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
