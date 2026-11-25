@@ -10,25 +10,25 @@
 
 * *[Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived*
 
-* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,773 | 🐛 302 | 🌐 Rust | 📅 2026-11-24*
+* *[Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,775 | 🐛 308 | 🌐 Rust | 📅 2026-11-25*
 
-* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,523 | 🐛 544 | 🌐 TypeScript | 📅 2026-11-24*
+* *[Hardhat](https://github.com/NomicFoundation/hardhat) ⭐ 8,524 | 🐛 544 | 🌐 TypeScript | 📅 2026-11-25*
 
-* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,715 | 🐛 401 | 🌐 C | 📅 2026-11-23*
+* *[Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,715 | 🐛 402 | 🌐 C | 📅 2026-11-23*
 
 * *[Dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25*
 
-* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,057 | 🐛 209 | 🌐 Python | 📅 2026-11-24*
+* *[Ape](https://github.com/ApeWorX/ape) ⭐ 1,058 | 🐛 211 | 🌐 Python | 📅 2026-11-24*
 
 * *[thirdweb](https://github.com/thirdweb-dev)*
 
 ## Static Analysis & Symbolic Execution
 
-* *[Slither](https://github.com/crytic/slither) ⭐ 6,420 | 🐛 523 | 🌐 Python | 📅 2026-11-18*
+* *[Slither](https://github.com/crytic/slither) ⭐ 6,421 | 🐛 524 | 🌐 Python | 📅 2026-11-18*
 
 * *[Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived*
 
-* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,045 | 🐛 94 | 🌐 Python | 📅 2025-08-06*
+* *[Halmos](https://github.com/a16z/halmos) ⭐ 1,045 | 🐛 95 | 🌐 Python | 📅 2025-08-06*
 
 * *[Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14*
 
@@ -46,7 +46,7 @@
 
 * *[Ityfuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,121 | 🐛 64 | 🌐 Rust | 📅 2025-12-10*
 
-* *[Medusa](https://github.com/crytic/medusa) ⭐ 501 | 🐛 84 | 🌐 Go | 📅 2026-10-28*
+* *[Medusa](https://github.com/crytic/medusa) ⭐ 501 | 🐛 85 | 🌐 Go | 📅 2026-10-28*
 
 * *[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi) ⭐ 197 | 🐛 0 | 🌐 Solidity | 📅 2023-11-07*
 
@@ -74,7 +74,7 @@
 
 ## Misc
 
-* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,322 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
+* *[Solidity 2 UML](https://github.com/naddison36/sol2uml) ⭐ 1,323 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-13*
 
 * *[Arbiter](https://github.com/primitivefinance/arbiter) ⭐ 750 | 🐛 10 | 🌐 Rust | 📅 2026-07-01*
 
@@ -94,4 +94,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
