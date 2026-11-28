@@ -19,7 +19,7 @@
             "open_issues": 527,
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13898,
+            "stars": 13896,
             "topics": [
               "blockchain",
               "ethereum",
@@ -46,8 +46,8 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T19:43:08Z",
-            "open_issues": 300,
+            "last_commit": "2026-11-28T18:35:22Z",
+            "open_issues": 271,
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10781,
@@ -89,10 +89,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-26T16:49:20Z",
-            "open_issues": 543,
+            "open_issues": 544,
             "owner": "NomicFoundation",
             "repo": "hardhat",
-            "stars": 8524,
+            "stars": 8523,
             "topics": [
               "blockchain",
               "dapps",
@@ -124,7 +124,7 @@
             "open_issues": 402,
             "owner": "eth-brownie",
             "repo": "brownie",
-            "stars": 2714,
+            "stars": 2713,
             "topics": [
               "ethereum",
               "solidity",
@@ -150,7 +150,7 @@
             "open_issues": 171,
             "owner": "dapphub",
             "repo": "dapptools",
-            "stars": 2121,
+            "stars": 2120,
             "topics": [
               "dapp",
               "ethereum",
@@ -175,7 +175,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-24T15:12:32Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "ApeWorX",
             "repo": "ape",
             "stars": 1058,
@@ -219,7 +219,7 @@
             "open_issues": 527,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6424,
+            "stars": 6423,
             "topics": [
               "ethereum",
               "solidity",
@@ -278,7 +278,7 @@
             "open_issues": 95,
             "owner": "a16z",
             "repo": "halmos",
-            "stars": 1046,
+            "stars": 1048,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:19.968Z"
@@ -399,8 +399,8 @@
             "id": 101585932,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T21:53:14Z",
-            "open_issues": 103,
+            "last_commit": "2026-11-28T01:58:37Z",
+            "open_issues": 104,
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3203,
@@ -630,7 +630,7 @@
             "id": 499880203,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-27T19:38:19Z",
+            "last_commit": "2026-11-28T18:51:07Z",
             "open_issues": 49,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T20:02:48.443Z",
+    "last_updated": "2026-11-28T18:59:40.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! ",
